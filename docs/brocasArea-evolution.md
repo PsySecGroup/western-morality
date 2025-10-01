@@ -5,112 +5,112 @@
 
 # Hierarchy
 
-- 1. Deep Evolutionary Origins 🦴  
-  - 2. Vertebrate Ancestors 🐟  
-    - 3. FOXP2 highly conserved across vertebrates 🧬  
-    - 3. Among top 5% most conserved proteins 🧬  
-    - 3. Present in fish 🧬  
-    - 3. Present in reptiles 🧬  
-    - 3. Present in alligators 🧬  
-  - 2. Mammalian Lineage 🐭  
-    - 3. Mice differ by 3 amino acids from humans 🧬  
-    - 3. Similar FOXP2 in most mammals 🧬  
-    - 3. Cortical development mechanisms shared 🧠  
+- Deep Evolutionary Origins 🦴  
+  - Vertebrate Ancestors 🐟  
+    - FOXP2 highly conserved across vertebrates 🧬  
+    - Among top 5% most conserved proteins 🧬  
+    - Present in fish 🧬  
+    - Present in reptiles 🧬  
+    - Present in alligators 🧬  
+  - Mammalian Lineage 🐭  
+    - Mice differ by 3 amino acids from humans 🧬  
+    - Similar FOXP2 in most mammals 🧬  
+    - Cortical development mechanisms shared 🧠  
 
-- 1. Primate Evolution 🐵  
-  - 2. Common Primate Ancestor 🦧  
-    - 3. 25-6 million years ago ⏰  
-    - 3. TBR1 pathway established 🧬  
-    - 3. Basic cortical architecture 🧠  
-    - 3. NOTCH signaling present 🧬  
-  - 2. Ape Divergence 🦍  
-    - 3. Orangutans 14 MYA 🦧  
-      - 4. 3 amino acid differences in FOXP2 🧬  
-      - 4. Additional fixed substitution 🧬  
-    - 3. Gorillas 8-10 MYA 🦍  
-      - 4. 2 amino acid differences in FOXP2 🧬  
-      - 4. Similar to chimpanzees 🧬  
-    - 3. Chimpanzee-Human Split 6-7 MYA 🐒  
-      - 4. Ancestral FOXP2 form 🧬  
-      - 4. Pre-speech capabilities 🗣️  
-      - 4. Limited vocal control 🗣️  
+- Primate Evolution 🐵  
+  - Common Primate Ancestor 🦧  
+    - 25-6 million years ago ⏰  
+    - TBR1 pathway established 🧬  
+    - Basic cortical architecture 🧠  
+    - NOTCH signaling present 🧬  
+  - Ape Divergence 🦍  
+    - Orangutans 14 MYA 🦧  
+      - 3 amino acid differences in FOXP2 🧬  
+      - Additional fixed substitution 🧬  
+    - Gorillas 8-10 MYA 🦍  
+      - 2 amino acid differences in FOXP2 🧬  
+      - Similar to chimpanzees 🧬  
+    - Chimpanzee-Human Split 6-7 MYA 🐒  
+      - Ancestral FOXP2 form 🧬  
+      - Pre-speech capabilities 🗣️  
+      - Limited vocal control 🗣️  
 
-- 1. Homo Lineage Evolution 👤  
-  - 2. Homo erectus 🚶  
-    - 3. ~2 million years ago ⏰  
-    - 3. Possible brain expansion genes active 🧠  
-    - 3. African dispersal 🌍  
-    - 3. Basic tool use 🔨  
-  - 2. Homo heidelbergensis 🧑  
-    - 3. 700,000-200,000 years ago ⏰  
-    - 3. Common ancestor candidate 🦴  
-    - 3. For H. sapiens, Neanderthals, Denisovans 👥  
-    - 3. Increasing brain size 🧠  
-    - 3. ASPM under selection 🧬  
-    - 3. MCPH1 under selection 🧬  
-  - 2. Archaic Human Split 🔀  
-    - 3. 550,000-765,000 years ago ⏰  
-    - 3. Neanderthal-Denisovan lineage separates 🔀  
-    - 3. Modern human lineage diverges 🔀  
+- Homo Lineage Evolution 👤  
+  - Homo erectus 🚶  
+    - ~2 million years ago ⏰  
+    - Possible brain expansion genes active 🧠  
+    - African dispersal 🌍  
+    - Basic tool use 🔨  
+  - Homo heidelbergensis 🧑  
+    - 700,000-200,000 years ago ⏰  
+    - Common ancestor candidate 🦴  
+    - For H. sapiens, Neanderthals, Denisovans 👥  
+    - Increasing brain size 🧠  
+    - ASPM under selection 🧬  
+    - MCPH1 under selection 🧬  
+  - Archaic Human Split 🔀  
+    - 550,000-765,000 years ago ⏰  
+    - Neanderthal-Denisovan lineage separates 🔀  
+    - Modern human lineage diverges 🔀  
 
-- 1. Archaic Humans 🏛️  
-  - 2. Neanderthals 🧑‍🦰  
-    - 3. Emerged ~400,000 years ago ⏰  
-    - 3. Extinct ~40,000 years ago ⏰  
-    - 3. Shared 2 FOXP2 substitutions with humans 🧬  
-    - 3. NOTCH2NL variants 🧬  
-      - 4. M40I missense variant 🧬  
-      - 4. N232S missense variant 🧬  
-    - 3. Present across Eurasia 🌍  
-    - 3. Interbred with humans 👥  
-  - 2. Denisovans 🧑‍🦱  
-    - 3. Emerged ~370,000 years ago ⏰  
-    - 3. Extinct ~30,000 years ago ⏰  
-    - 3. Shared 2 FOXP2 substitutions with humans 🧬  
-    - 3. NOTCH2NL variants 🧬  
-      - 4. E258A missense variant 🧬  
-      - 4. Unique configurations 🧬  
-    - 3. Present across Asia 🌍  
-    - 3. Interbred with humans 👥  
+- Archaic Humans 🏛️  
+  - Neanderthals 🧑‍🦰  
+    - Emerged ~400,000 years ago ⏰  
+    - Extinct ~40,000 years ago ⏰  
+    - Shared 2 FOXP2 substitutions with humans 🧬  
+    - NOTCH2NL variants 🧬  
+      - M40I missense variant 🧬  
+      - N232S missense variant 🧬  
+    - Present across Eurasia 🌍  
+    - Interbred with humans 👥  
+  - Denisovans 🧑‍🦱  
+    - Emerged ~370,000 years ago ⏰  
+    - Extinct ~30,000 years ago ⏰  
+    - Shared 2 FOXP2 substitutions with humans 🧬  
+    - NOTCH2NL variants 🧬  
+      - E258A missense variant 🧬  
+      - Unique configurations 🧬  
+    - Present across Asia 🌍  
+    - Interbred with humans 👥  
 
-- 1. Modern Humans 🧑  
-  - 2. Homo sapiens Origins 🌅  
-    - 3. ~300,000 years ago Africa ⏰  
-    - 3. Jebel Irhoud fossils 🦴  
-    - 3. Earliest H. sapiens 🧑  
-  - 2. FOXP2 Evolution 🧬  
-    - 3. Two key substitutions 🧬  
-      - 4. T303N substitution 🧬  
-      - 4. N325S substitution 🧬  
-    - 3. Shared with Neanderthals and Denisovans 👥  
-    - 3. Fixed ~400,000 years ago ⏰  
-    - 3. Or ~200,000-260,000 years ago ⏰  
-    - 3. Debate ongoing 💬  
-    - 3. Regulatory changes in modern humans 🧬  
-  - 2. NOTCH2NL Emergence 🧬  
-    - 3. Human-specific duplications 🧬  
-    - 3. 0.5-4 million years ago ⏰  
-    - 3. Three functional paralogs 🧬  
-      - 4. NOTCH2NLA 🧬  
-      - 4. NOTCH2NLB 🧬  
-      - 4. NOTCH2NLC 🧬  
-    - 3. Cortical expansion driver 🧠  
-    - 3. Modern human variants 🧬  
-    - 3. Ongoing adaptive evolution 🧬  
-  - 2. Brain Size Genes 🧠  
-    - 3. ASPM acceleration 🧬  
-      - 4. Positive selection last 6 million years 🧬  
-    - 3. MCPH1 evolution 🧬  
-      - 4. Selection 25-6 MYA 🧬  
-      - 4. Ongoing in modern humans 🧬  
-  - 2. Recent Human Evolution 🌐  
-    - 3. Out of Africa ✈️  
-      - 4. 120,000-80,000 years ago ⏰  
-    - 3. Global dispersal 🌐  
-    - 3. Interbreeding with archaic humans 👥  
-    - 3. Gene flow from Neanderthals to Eurasians 🧬  
-    - 3. Gene flow from Denisovans to Oceanians 🧬  
-    - 3. Continued adaptation 🧬  
-      - 4. NOTCH2NL fine-tuning 🧬  
-      - 4. Language refinement 🗣️  
-      - 4. Present day diversity 🌈  
+- Modern Humans 🧑  
+  - Homo sapiens Origins 🌅  
+    - ~300,000 years ago Africa ⏰  
+    - Jebel Irhoud fossils 🦴  
+    - Earliest H. sapiens 🧑  
+  - FOXP2 Evolution 🧬  
+    - Two key substitutions 🧬  
+      - T303N substitution 🧬  
+      - N325S substitution 🧬  
+    - Shared with Neanderthals and Denisovans 👥  
+    - Fixed ~400,000 years ago ⏰  
+    - Or ~200,000-260,000 years ago ⏰  
+    - Debate ongoing 💬  
+    - Regulatory changes in modern humans 🧬  
+  - NOTCH2NL Emergence 🧬  
+    - Human-specific duplications 🧬  
+    - 0.5-4 million years ago ⏰  
+    - Three functional paralogs 🧬  
+      - NOTCH2NLA 🧬  
+      - NOTCH2NLB 🧬  
+      - NOTCH2NLC 🧬  
+    - Cortical expansion driver 🧠  
+    - Modern human variants 🧬  
+    - Ongoing adaptive evolution 🧬  
+  - Brain Size Genes 🧠  
+    - ASPM acceleration 🧬  
+      - Positive selection last 6 million years 🧬  
+    - MCPH1 evolution 🧬  
+      - Selection 25-6 MYA 🧬  
+      - Ongoing in modern humans 🧬  
+  - Recent Human Evolution 🌐  
+    - Out of Africa ✈️  
+      - 120,000-80,000 years ago ⏰  
+    - Global dispersal 🌐  
+    - Interbreeding with archaic humans 👥  
+    - Gene flow from Neanderthals to Eurasians 🧬  
+    - Gene flow from Denisovans to Oceanians 🧬  
+    - Continued adaptation 🧬  
+      - NOTCH2NL fine-tuning 🧬  
+      - Language refinement 🗣️  
+      - Present day diversity 🌈  
