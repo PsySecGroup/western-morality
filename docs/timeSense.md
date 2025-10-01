@@ -1,8 +1,230 @@
-
 # Mind Map
-<img width="1920" height="833" alt="image" src="https://github.com/user-attachments/assets/fb9e2e19-6891-47bd-ac1f-b4cf465199e4" />
+<img width="1920" height="675" alt="image" src="https://github.com/user-attachments/assets/d1789af6-98bd-42fb-99d3-544dbb13eaa1" />
 
-[View]() | [Edit]()
+[View](https://mermaid.live/view#pako:eNqNWt1uG8cVfpUBC0MJINkkRVmWUBSgKFkWINmCqCpooZvh7pCceHdnOzMrmTYUxOgP2rRxmshtGl80SRPXaOG2aYECRS_6MO4DNI_Qc2Z3dpfkDKWLOKR2Zvb8fuc7Z_ikEYiQNTYbN2484QnXm-TJkh6zmC1tLg2oYkvLJP9-QiWng4ipJVhCllLJYyonPREJCUu_0-luNHfauLp4cswe6fLpcDisPdoSMmSyfNjeWevd6eLziCes_PPtYH1tPcQ_KxaIJKy_ba3Zu7N-x8jGpOb1R3dXN3otI0giNNt6OCqf7Kx3eqs9-8Qln9kxLVyvubrR3lq6gKcxT8KYpqj_UkrDkCcj-NxaMxtD1k9pUPtTxM5YVP2t3WxeXFzcuHGaFMecJoRIIfRbbx2zOBWSRt8dyFvfO5QiYErBJvO1P1GaxYq8-ejv__vXR2-_jbsIacHnNz_-inw_0pKubFHFA3LMY7upx2VAQ04TcjSe6DFs__bzX32WbyWkXWzuZ6mkwZhTFVMNB9zPgohluPbVF3YtIavF6n0RwCqRwOPLD6vHhHSKBfcmqdBjGtF47oxqUXcgzhgRKb4vf7X3vPdazeVms0kSlkmRKJIySRQPGWx4_od5-Q5ExIIsopL0IhE8RAleu47Nn9IkJFsxjVpkxBKmvKsPd45Wekc_IEPGwgGFjZEQKUrwE9fqY0kTFUieoqFWNH6LjNGMV2IWjGnCjcrut73X7txcI2ORSdSWixDc_s28qj0WRaSbaZGIeILCOA_bAd-Sfu9-YUAjAkQeSxn8k2giVMAjEE_IIrhchxxkOqMRUZMkGMMh_LGNgeefupbfZ_pcyIdEMp4MhQwANuBN06utFntJmmm0_OVL11FHTPNEjMuggoABgwba--7DsdBCsURxzSHGRjQZRShrANbC13z81KPjPh-NNQFBJeWJEfjN796fWmtFfpBpK_PXThEAvsBaowjDy5cCBwyNnvCEpFKEWVAY9JMPnCdCGKRjBuBAhASVSIDhq9xxcR8dbaIu5hpwUXmPPaFKpNLADOmeHC5cBzZHe_JEMwUuKWAqZRDkkIwne_7du1RpyZMVySJGS0SzO3eP6jstoh1ATPIc74kWpG8-mX0HAkM1RznQ_x81D7XLxJBsAO7OYg-I9bNBcTaqI89opOaCf9UhCdgq4Aod9ebFl_NLtyFoqGYkWYige_jKFEI0vGLhNgcQYXAeVBCIRm1V9shp7KKpekigjozB0Hjus7_Nryxsd2YKOY-4nhDQTksRYUR_ML9h51Ea8YBfKQJiUV5DioXKVK0pnLQ-gmIFwbxrspN63QSVaeXanuqDnTBDxlkSSrAu1DsInXy7J1X6WkLmZZL5SxUs4VTPhVKtktAs9Hu9lsOZpgAr3ue7kRjA9pRCvIULzsHg1TQBtkMSPpI-493NEoMpoPmLzzyQtxPRFOMQ3MUMrD50ubdav8WoXkE2GFoPf_v5y6dO2DaEA6GtYDEYi_904iAwAYO2CuDBoqArbLdFCvCfMDmCAIsBMiPqwMyyOIpRkleA2VisjFXihYjjLOEFsTmkenxOJ8pTr3Yj9CM6XPERwGCumxv56tgBMSZg6xx4VKvvAk6SArfVApQp7OC3QXVkq9mczQKfb_uROAdqNXWoCwyObRkGOKcTb5SemEIaETjLJOXJvnfpHnKEOH8nZjnEtINdVI4Foh-IFZUNAvMRXwJsrO6vVuXYNGKPyBSz7rMfZSwJGFTgWMiJMyLu8TQFohunXnAGMdi1csy-m5h-gsT2pXXyWsvIszwVChEHwNTyAHOTnXfGDG1W2W8K5WoYBfgOfQ6hSomALzLvMUJBz3Alf6zc5aA8BTlTqIdDk46YwsoX2bsAM2QApJCBuMAe4iziM-HlMBg0pLnudZZcgX1hol7B69z23Ib6CWQRIkXi_3MfeBfz4RCoA0IrpDeUaJ4719ea5DLA6ogMuTTQ6UpYaP7MGisyHvjpvz2mPWIpphUQslLWp276aOIIshpghYclDPzHWXoo8kBgjSYfiqWv_uTwvrW9DRhPPO1KGkJDEIEA0MuMcje53VmctFJ1HOAJ2OqN6b0aBNBACqXy-jQdju3SDiHa9lCyITQm2ogu4YWetH0gQ-Su5LBemNzRcFj4H31RJqQvFCAjlF4uYHaZ6DGXoYWhQtRCBKfKUJlWbLx5kt5q8A40Vvi0RK9P_uKMD2hiNPw3hQ6--DgG1mjo-RnwCkMG836tXobnEhReroBy0hGbOXcumB5gy1L1jJe_9PCsnIqVxlZXoORAZDgN4mbhi1fOhSlXApoMTBNzfkEvXjupIGQ9coteSYbd-t-DRpHJFTPYIWHRESjv8l0BJojRHSyheQy5F3ZDmhrGMmBjesaFdBJnbAXl2ATx4kgfvIuIV0N8H6O5L1ARwAYIvHLhz37jqnkmlc0kIIMCKf09fcAx1eerXhUnVp_9giDsJBBM19drOqwv_-joRqzmYNEpHurMqjGUM2zXz8G1bIaGTIF1e2bGsXclY6mRiZXDu728k6HBgh1bBQKgQIqldOHx16gEq9UwBdIFmihrEFYfYrSqhgZ7syNo1nE-kbfrKAoQNSyPJoS_fu5z5HWh2DBEYfkhGsZHELe6pNO51Vnzom8hsUJiYfV_5oTFXQYNRL5kOiXdKLrPhpqMGfDx1MRFKIB5I0a-ef1TZw-6LaS6rk53bm3c6tz2KrUDfspyUevecmOHrQpFokWChl6l9hIzboK0kNbFUw6tpRBG6nXVaTVvdda92nShaTVzO987axQoi1A0HEyZgcoVVaNAbV_n0K57Js7Zwt0iPt2Bad6vzrkOxgDvumxK68PecjQipcCmCXpNUTDAL5yBcY-DDWUwNv3KVXbfOUP4hLikQZDFrn6sXfcQlooenIYLmW-YJM6xBDIaEzEk2wfGl3VXVSB_xgDYJRqBOxN-rmZOruzdoXIMIw7e91qq5HM8DOHNJXfYnciFAzKRScUMsZVsjFPf3FC_dXUMMU5NguliUE-R1Wk4AURNWLCocu4D982QAM3Ui68WENW5JKoaa4apC97BmyHPogNTVfljv_B9LHrTIfbxS5c1oiFQPtvvREBZRYYDcBe0G-DHKDtEuoWZsy8GGCC-O6KRCfMyfJQvforOqC7sTGdU-SQKqkRw3fy4C3FrloxCeQp5UN7GYF3beQR9bAk0z_86R7ms1gvrGfQLRS6mdr174c51xrlH5jaiVnrKoe6b33_p3AEtzcDOc8Hotnl2znCsMViluXKq3oeUgnSNzXB5ofrdCOQrb5PMgf99_xunpFtgnOutrOsUmjudCRkWQxePbvkcHNCgRptckNRFLOApXnxNiLncwMOd7s9vq8kJV9mVpKY1M0H7cIH1AWS4QVdfENhYPbPDxmkn1S06xHlUPloBvASbMu12KBD3yAxcUaXcWF3IP98I_qBrWChIsoKfPRrlsWxvEfxXFMWo92rvlOMd_C0CX5T2ECI4hjJGWtBm1Fjpgb2A9dWVLTphCq_N6_XPFWuHJt29SVRXB9Noco3x5ra9YTorfmfhC1_bLOqsAM75VhEvAkHf7UmCA1vlnk4ditSGK_4CRHnmbUfQv5iWpMqUy587xM_fhWNsbNNE0Z27jNdPGQsJRT3oAoZlrsuwK4S8YiYBbNVrVTQA2ppBpuG42q8figbN_Ojh17OmMQxQlEBtmzkPtGmch5h5VBRVv3-YuUmev3kInIOEqhlTQF4gtkIr_4KhO17r5ZTU52w7F7eXn1T66lRZAAlD9qq8nDVHh4hRWYTY5Qtv7tPw3UzpYgrsvaCrFRP8LYGTqFtF8os3bxW9B3VBk_oQoD4orYx8TmXttuqZY003N8ZVHLaE7dDQTgiI3Ca_mFUgvyEBT9jrCd89cCW8vUtxqbBLdd7Z1VDrxZ8XRelUBfJEqR0xBEKYkWgJSY3lxkjysLGpZcaWGzEDGfFr4wkectowPwI7bWzCx5DKh6eN0-QC9qQ0-aEQsd0mkUw2NodQsuBbluIN6TangH3VEhwHyx5asrHZaq6aMxqbTxqPGpvrrZvN5mrrdqt1p73eaXbg4QQWrW7cvL222tlYu9PcWNtorl0sNx6blzZvbnQ67durrfX22trGRvt2e7kBUQ5xdpD_qs38uO3i_-xIOQY) | [Edit](https://mermaid.live/edit#pako:eNqNWltvG8cV_isDFoYSQLR5k3VBUYCiZFmA5AiiqqCFX4a7Q3Li3Z3tzKxk2lCQoBe0aZM0sds0fmiSJmnQIm3TAgWKPvTHuD-g-Qk9Z3Znd0nOUHqIQ2pnZs_1O985w6eNQISssdO4despT7jeIU_X9JTFbG1nbUQVW1sn-fdzKjkdRUytwRKylkoeUzkbiEhIWPqdXn-7td_B1cWTM_ZYl0_H43Ht0a6QIZPlw87-xmCrj88jnrDyz3eDzY3NEP-sWCCSsP62jdZga3PLyMak5vVH97rbg7YRJBGa7T6alE_2N3uD7sA-cclndswLN2h1tzu7a1fwNOZJGNMU9V9LaRjyZAKf2xtmY8iGKQ1qf4rYBYuqv3Varaurq1u3HibFMQ8TQqQQ-pVXzlicCkmj747kne-dSBEwpWCT-TqcKc1iRV6-__f__ev9V1_FXYS04fPLH39Ovh9pSZu7VPGAnPHYbhpwGdCQ04ScTmd6Ctu__eRXH-dbCekUm4dZKmkw5VTFVMMBD7IgYhmu_epTu5aQbrH6SASwSiTw-Nm71WNCesWC-7NU6CmNaLx0RrWoPxIXjIgU35e_2nvem-3WeqvVIgnLpEgUSZkkiocMNjz_w7J8xyJiQRZRSQaRCB6hBF-7js2f0iQkuzGN2mTCEqa8q0_2T5uD0x-QMWPhiMLGSIgUJfiJa_WZpIkKJE_RUE2N3yJjNOOVmAVTmnCjsvttb3Z6tzfIVGQSteUiBLd_s6zqgEUR6WdaJCKeoTDOw_bBt2Q4eFAY0IgAkcdSBv8kmggV8AjEE7IILtchx5nOaETULAmmcAh_YmPg-Ueu5Q-YvhTyEZGMJ2MhA4ANeNP8aqvFYZJmGi3_7EvXUadM80RMy6CCgAGDBtr77pOp0EKxRHHNIcYmNJlEKGsA1sLXfPC2R8cjPplqAoJKyhMj8MvfvTW31or8WqatzF84RQD4AmtNIgwvXwocMzR6whOSShFmQWHQD99xnghhkE4ZgAMRElQiAYavcsfFA3S0ibqYa8BF5T32nCqRSgMzpH9-snId2BztyRPNFLikgKmUQZBDMp4f-ncfUKUlT5qSRYyWiGZ3HpzWd1pEO4aY5DneEy3I0Hwy-44FhmqOcqD_P2oe6pSJIdkI3J3FHhAbZqPibFRHXtBILQV_1yEJ2CrgCh318sVny0v3IGioZiRZiaCH-MoUQjS8ZuEeBxBhcB5UEIhGbVX2yGnsoql6RKCOTMHQeO57f1teWdjuwhRyHnE9I6CdliLCiH5necP-4zTiAb9WBMSivIYUC5WpWnM4aX0ExQqC-cBkJ_W6CSpT88aeGoKdMEOmWRJKsC7UOwidfLsnVYZaQuZlkvlLFSzhVC-FUq2S0Cz0e72Ww5mmACve5weRGMH2lEK8hSvOweDVNAG2QxI-kT7j3csSgymg-YuPPZC3H9EU4xDcxQysPnK5t1q_y6huIhsMrYe__eTLt52wbQgHQlvBYjAW_-nEQWACBm0VwINFQVfY7okU4D9hcgIBFgNkRtSBmWVxFJMkrwCLsVgZq8QLEcdZwgtic0L19JLOlKdeHUToR3S44hOAwVw3N_LVsQNiTMDWJfCoVt8DnCQFbqsVKFPYwW-D6sh2q7WYBT7fDiNxCdRq7lAXGJzZMgxwTmfeKD03hTQicJZJyvMj79JD5Ahx_k7McohpB7uoHAtEPxBNlY0C8xFfAmys7q925dg0Yo_JHLMesh9lLAkYVOBYyJkzIu7zNAWiG6decAYx2I1yzL6bmH6CxPaldfJay8iLPBUKEUfA1PIAc5Od16cMbVbZbw7lahgF-A59DqFKiYCvMu8ZQsHAcCV_rNzjoDwFOVOoh2OTjpjCyhfZBwAzZASkkIG4wB7iLOIL4eUwGDSkue51llyBfWGiQcHr3Pbcg_oJZBEiReL_cx94F_PxGKgDQiukN5RonjvX15rkMsDqiIy5NNDpSlho_swaKzIe-NG_PaY9ZSmmFRCyUta33fTRxBFkNcAKD0sY-I-z9FDkgcAaTT4US7_6k8P71vY2YDzxdCBpCA1BBAJALzPJ3eR2Z3FSs-o4wBOw1RvThzUIoIEUSuX1aT4cO6UdQrTtiWRjaEy0EV3CCz1p-5oMkbuSk3phckfDSeF_9EWZkL5QgIxQer2A2XWip1yGFoYKUQsRnCpDZWraePMkvdXgdWis8GmJXh_-xRkf0MRo-G8OHXzxcQas0dDzC-AVhgzm_Vq9DC8lKLxcAeWkE7Zw7lIwvYYtS9UzPvulh2flVKw0troGJUciw2kQNwtffOVcmHIloMnANDHnF_TiaycVhKxHbjEoybBb__vQKDLZNIMdEhYdgfIuPxBgghjdwRKax5B7YT-kqWEsIzalF1xIJ3HGVlBOTRCvjvTRG4h4NcT3MZoHAhUBbIDAKxf-7DeummdS2UwCMiiQ0t_TBxxTfbnqVXFi9TkqCMJ-AsF0c73mw_rZHx3diNUcLDrHQ51ZNYVyhu36JbiWLdCQObDuLMw4Dq9lLDUy0Ty5N8g7GRqs2LFbIAAKpFhKVx5_g0rQrYYpkC7QRFmDsPoQo101NNibnUKzjvOJvF1HUYCoYXk0IfzFc58jbwrFhiEKyw_RMD6CuNsnvd6d3oYXfQuJFRILq_97Tlg8YNBA5EvmU9KNokdsrMmUAR9PTVyEApg3YuTLr3_q7EH3hFQ31Wnrzvad3l2vUvvgpywXte4tN3bYqlAkWiRo6FXqMDHjJkgLaV0859BaCmGk3lSddutOb9OrTR-aVjO3872zRoGyCEXDwZQZqFxTNQrU9nUOnbpn4pwt3Cvi0x2Y5v3qkutgCvCuy6a0PuwtRyNSCmyaoNcUBQP81BkY9znYUAZT069cZ_f9C4RPiEsaBFns6sc6dQ9hqRjAabiQ-YZJ4hJLIKMxEWOyd2x8WXdVBfIXDIBdohG4M-GXaubs2t4dKsc44uB9r6VKPsfDEN5ccoeDmVw5IBOZVMwQW8mmOPXNDfVbV8cQ49QkmC8G9RTpzsMJIGrCglWV8wi4b4YEaKFefL6CqC4lUdVYM0xd8A7eDHkWHZuqyp_4hR9i0ZsPsQ--dFkjGgPls_1OBJRVZDgAd0G7AX6MshOkW5g5R2KEAeK7I5qYMC_DR_nip-iM6sIudEaVT6KgSgTXzY-7ELcXySiUp5AH5W0M1rX9x9DHlkDz_K9LlMtqvbKeQb9Q5GJq17sX7t9knHtqbiNqpacc6r78_WfOHdDSjOw8F4xum2fnDMcag1WaK6fqQ0gpSNfYDJdXqt-PQL7yNskc-N-3vnFKugvGudnKuk6hudOZkXExdPHols_BAQ1qtMkFSX3EAp7ixdeMmMsNPNzp_vy2mpxzlV1LatoLE7R3V1gfQIYbdPUFgY3VCztsnHdS3aJjnEfloxXAS7Ap026HAnGPzMAVVcqN1Yf8843gj_uGhYIkTfzs0SiPZXuL4L-iKEa913unHO_gbxH4qrSHEMExlDHSijajxkqP7QWsr67s0hlTeG1er3-uWDsx6e5Noro6mEazG4w39-wN00XxOwtf-NpmUWcFcC63ingRCPruzRIc2Cr3dOpEpDZc8RcgyjNvO4X-xbQkVaY8-7lD_PxdOMbGNk0U3bnLeMOUsZBQ1IOuYFjmugy7QsgrZhLAVr12RQOgrRllGo6r_fqhaNDMjx5-vWgawwBFCdS2mfNAm8Z5iJlHRVH1-4eFm-Tlm4fAOUiomjEF5AViK7Tyrxi647VeTkl9zrZzcXv5SaWvTpUFkDBkr8rLWXN0iBiVRYg9e-HNfRq-kSldTIG9F3S1YoK_JXASdatIfvHmraL3oS5oUh8C1AellZEvqazdVr3nWNPPjXEdhy1hOzS0EwIit8kvFhXIb0jAE_Z6wncPXAlv71JcKhxQnXd2NdR68edVUTpXgTxRakcMgRBmJFpCUmO9MZE8bOxombH1RsxARvzaeIqHPGyYH4E9bOzAx5DKRw8bD5Mr2JPS5IdCxHabRDLZ2BlDyYJvWYo3pHucAvZVS3AcLAdoycbOhjmhsfO08bix09m-3d1q9Vqbvc1ub7Pdgoezxk5z-_Zm7-7dre5Gt9Xptre6vav1xhPzzvbtVnu71drubrQ3u61u7-7megOCHMLsOP9Rm_lt29X_AbxMOMo)
 
 # Hierarchy
 
+- 🌙 Ultra-Basic Timing  
+  - 🧠 Suprachiasmatic Nucleus  
+    - 📍 Location  
+      - 🧠 Hypothalamus  
+      - 📍 Above optic chiasm  
+      - 🔢 ~10,000 neurons per side  
+    - 🧬 Molecular Clock  
+      - 🧬 Clock and Bmal1 genes  
+      - 🔄 PER-CRY feedback loop  
+      - 🧬 Transcription-translation mechanism  
+      - ⏰ ~24.5 hour period  
+    - 🔬 Cell Autonomy  
+      - ⏱️ Each SCN neuron independent oscillator  
+      - 🔗 Mutual synchronization  
+      - 🔗 Network reinforcement  
+    - 📥 Inputs  
+      - 🔗 Retinohypothalamic tract  
+      - 👁️ Photosensitive ganglion cells  
+      - ☀️ Light entrainment  
+    - 📤 Outputs  
+      - 🧠 Pineal gland  
+      - 💊 Melatonin production  
+      - ⏰ Peripheral organ clocks  
+    - 💊 Neurotransmitters  
+      - 💊 Vasopressin AVP  
+      - 💊 Vasoactive intestinal peptide VIP  
+      - 💊 Gastrin-releasing peptide GRP  
+
+- ⏲️ Millisecond to Second Motor Timing  
+  - 🧠 Cerebellum  
+    - ⏱️ Subsecond intervals  
+    - ⚡ Millisecond precision  
+    - 🧠 Dentate nucleus  
+    - 🧠 Interposed nucleus  
+    - ⏱️ Discrete event timing  
+    - 🎯 Motor task emphasis  
+    - 📊 Timing variability control  
+    - ⏱️ Explicit timing  
+    - 🔄 Automatic timing system  
+  - 🧠 Basal Ganglia  
+    - ⏱️ Supra-second intervals  
+    - ⏰ Several hundred ms to seconds  
+    - 🧠 Structures  
+      - 🧠 Striatum  
+      - 🧠 Caudate nucleus  
+      - 🧠 Putamen  
+      - 🧠 Globus pallidus  
+      - 🧠 Substantia nigra  
+    - ⚙️ Functions  
+      - ⏱️ Elapsed time tracking  
+      - 🥁 Beat-based timing  
+      - 🎵 Rhythm processing  
+      - 🎯 Movement selection  
+    - 💊 Dopaminergic modulation  
+    - 🧠 Cognitive timing system  
+  - 🔗 Communication Pathways  
+    - 💊 Glutamate signaling  
+      - ⚡ Millisecond resolution  
+      - ⚡ Fast transmission  
+    - 💊 Dopamine modulation  
+      - ⏱️ 100ms to seconds  
+      - 📊 Slower modulation  
+    - 🧠 Thalamic relay  
+      - 🧠 Ventral lateral VL  
+      - 🔗 Information integration  
+    - 🔗 Cortico-subcortical loops  
+
+- 🧠 Complex Temporal Sequence Memory  
+  - 🧠 Hippocampus  
+    - ⚙️ Core Functions  
+      - 🔢 Temporal order memory  
+      - 🔗 Event sequence binding  
+      - ⏰ When information  
+      - 🔗 Context association  
+    - ⏱️ Time Cells  
+      - ⚡ Fire at specific moments  
+      - 📊 Gaps between stimuli  
+      - 🧬 Temporal coding  
+    - 🔢 Sequence Cells  
+      - 🔢 Detect correct order  
+      - 📍 Differentiate positions  
+      - ⚡ Sequential firing  
+    - 🗺️ Spatial Sequences  
+      - 🔁 Replay in order  
+      - 💾 Memory consolidation  
+      - 🧩 Pattern completion  
+    - ⏰ Temporal Context  
+      - 📊 Gradually changing  
+      - 🔗 Context-dependent recall  
+      - ⏱️ Integration across time  
+  - 🧠 Medial Prefrontal Cortex  
+    - 🔢 Ordinal Processing  
+      - 📍 Position in sequence  
+      - 1️⃣2️⃣3️⃣ First, second, third  
+      - 🔗 Item-position binding  
+    - 💭 Working Memory  
+      - 💾 Maintain information  
+      - 🎯 Task-relevant content  
+      - 💾 Temporary storage  
+    - 📋 Temporal Organization  
+      - 🔢 Structure sequences  
+      - 🚧 Event boundaries  
+      - 🎬 Episode construction  
+    - 🎯 Strategic Control  
+      - 🎯 Higher-level decisions  
+      - 🎯 Goal maintenance  
+      - 🔄 Adaptive behavior  
+  - 🧠 Perirhinal Cortex  
+    - 🔗 Object associations  
+    - 🆕 Novel combinations  
+    - 🔗 Contextual support  
+    - 💾 Incidental order memory  
+  - 🧠 Lateral Entorhinal Cortex  
+    - 📦 Object information  
+    - 🔗 Associative processing  
+    - 🗺️ What and where integration  
+  - 🔗 Network Integration  
+    - 🔗 Hippocampus-PFC interaction  
+    - 🔗 Binding and separation  
+    - 💾 Memory consolidation  
+    - 📤 Retrieval processes  
+
+- 🤔 Causal Reasoning and Inference  
+  - 🧠 Lateral Prefrontal Cortex  
+    - 🧠 Ventrolateral PFC  
+      - 📍 BA 44/45  
+      - 🎭 Causal simulation  
+      - 💭 Generation maintenance  
+      - ⬅️ Left hemisphere dominant  
+    - 🧠 Dorsolateral PFC  
+      - 📍 BA 8/9/46  
+      - 🎯 Evaluation processes  
+      - 💭 Working memory load  
+      - 🤔 Inductive reasoning  
+    - 🧠 Anterolateral PFC  
+      - 📍 BA 10/47  
+      - 🤔 Abstract reasoning  
+      - 📋 Rule representation  
+      - 🔗 Strategic integration  
+  - 🧠 Dorsomedial Frontal  
+    - 🔄 Rule switch detection  
+    - ⚠️ Error monitoring  
+    - 🤔 Hierarchical reasoning  
+    - 📊 Evidence accumulation  
+  - 🧠 Anterior Cingulate  
+    - 📍 Downstream of DMFC  
+    - 🤔 Covert rule inference  
+    - 🎯 Strategy selection  
+    - ⚠️ Conflict monitoring  
+  - 🧠 Middle Temporal Gyrus  
+    - 📖 Discourse comprehension  
+    - 💭 Semantic processing  
+    - 🔗 Causal connections  
+    - 🗣️ Language integration  
+  - 🧠 Medial PFC  
+    - 🧠 Theory of mind  
+    - 💭 Mentalizing  
+    - 👥 Social reasoning  
+    - 🤔 Self-referential thought  
+  - 🧠 Inferior Parietal Lobule  
+    - 🤔 Logical inferences  
+    - 🗺️ Spatial reasoning  
+    - 🔢 Calculation  
+    - 🔗 Integration  
+
+- 🔮 Temporal Prediction and Expectation  
+  - 🧠 Parietal Cortex  
+    - 🧠 Posterior parietal  
+    - ⏱️ Event timing  
+    - ➡️ Right hemisphere emphasis  
+    - 📊 Probability encoding  
+    - 🔮 Temporal expectations  
+  - 🧠 Sensorimotor Cortex  
+    - 〰️ Alpha oscillations  
+    - 〰️ Beta oscillations  
+    - 📊 Probability density function  
+    - 🎯 Motor preparation  
+    - 🔮 Anticipatory activity  
+  - 🧠 Primary Visual Cortex  
+    - 📍 V1 modulation  
+    - ⏱️ Temporal salience  
+    - 🔮 Predictive signals  
+    - 🔮 Before stimulus onset  
+  - 🧠 Supplementary Motor Area  
+    - 📍 SMA and Pre-SMA  
+    - ⏱️ Timing control  
+    - 🎯 Movement preparation  
+    - 🔢 Sequence initiation  
+    - 💾 Prospective memory  
+  - 🧠 Prefrontal Mechanisms  
+    - 📊 Bayesian inference  
+    - 🔮 Prior expectations  
+    - 🔗 Sensory integration  
+    - 🎯 Decision variable  
+    - 🔄 Adaptive tuning  
+  - ⚡ Neural Dynamics  
+    - 🧬 Population codes  
+    - 📈 Ramping activity  
+    - 📊 Dynamic trajectories  
+    - 🔄 Speed adaptation  
+    - 💭 Internal models  
+
+- 🌐 Distributed Timing Networks  
+  - 🧠 Frontoparietal Network  
+    - 👁️ Attention allocation  
+    - 🎯 Cognitive control  
+    - 📊 Resource distribution  
+    - 🔄 Task switching  
+  - 🧠 Cortico-Cerebellar  
+    - ⚠️ Prediction errors  
+    - 📚 Motor learning  
+    - ⏱️ Timing adjustments  
+    - 🔗 Sensorimotor sync  
+  - 🧠 Cortico-Striatal  
+    - 🔁 Habit formation  
+    - 🎁 Reward timing  
+    - 🎯 Action selection  
+    - 📉 Temporal discounting  
+  - 🧠 Thalamo-Cortical  
+    - 🔁 Information relay  
+    - 🚪 Gating mechanisms  
+    - 👁️ Attention modulation  
+    - 🔗 Binding coordination  
