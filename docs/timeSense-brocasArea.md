@@ -1,8 +1,140 @@
 
 # Mind Map
-<img width="1920" height="833" alt="image" src="https://github.com/user-attachments/assets/fb9e2e19-6891-47bd-ac1f-b4cf465199e4" />
+<img width="1920" height="920" alt="image" src="https://github.com/user-attachments/assets/2e46ebd2-91c4-4cdc-bc92-1124a7b35006" />
 
-[View]() | [Edit]()
+[View](https://mermaid.live/view#pako:eNqNWdtuG8cZfpUBC0MJIDk86kAUBShqpbAVSYWkbLTQzXB3SA60O7OZmZXECLpw0ovCSe0kFurCqKscHBQo4B7QtOhF0YfRC9SP0H_2wN0VZ2lfieT8c_gP3_99M7os2dwhpWbp3r1Lyqhqoss1NSMeWWuujbEka-so-v4AC4rHLpFrYILWfEE9LOZt7nIBpj_Z2W3s7G5q63hkRC7UYnQymWSGdrlwiFgMbrZr9e2aHncpI-nP9lZjy9E_S2Jz5mR3s7bq7Vo7PBsRimaH9ms77UpVDzGuyO7pdDFS3WpZm-VkxHS-cEb-cBVru17fWbuCUY8yx8O-9n_Nx45D2RQ-VxrhRIcMfWxnfnLJGXHT36rl8tXV1b17Jyxe5oQhJDhX7723K7iN1yRqCYJ_OhYf_GxEPJ8L7IZf-mdEuNiX6M3Nn755_309DaHK__799Paz71G3c3jYGVrtfm8PjTrdTu8gnPPm5vpH1G39vD9A_QfW4LB1hG6f_h3mRLMRqsbzh-TjgDAIoIuO4BRESjgt7HT9XWKJUC22rdbLG7V62ZMI24qeYUU5Q-fgDD-H1f-2POGI4FOJxmTCBUEY0mQHbjTrzc2z3yzbtzmEnjKsiEQqDgGysbSxQ_SZni9P2RfcQzhwqOJijhRHHodPyOZCkYvcnMTjoxlnkNsptWHxEfVif18tr10vlzc2y9pfPw2N0dHh3HU1NJAkUw_CGTl5-4dPMxHPhAVOAHgCYx17uzjgSRmgsCK1HZ8gyQPm6GK4fnzXtW7oe-zTIphRvJ_8dXn9Q8ogPxA0mwgyJq4beAVhPhLEpvJOElW0Ub6w0jld6ro0Qi4EUM_XkxghDnHQ7YtvDWEMxrE9ZQDrM-xKZAuqwlSZ63cwm6uZl6_dJ_9cXnqXYLWh25mTHPvNzQ-PTI5yyR1qIx8rOALTgX7ynxWpEWQK8YBDzpFDFLGT8n5sCEggQ09EdGbt41Qs8vOvPLCH1kfHVq9toa7V7Q9-WYTqNzdf__duTB5ycao97BJPgwJMXhsC0kL1OgJkIj8LCDj5b1cZyzlUNzhpI6lEYKtAkII5Ld0jCJpQIVVun3nio6EgAfoi3ecicakw_uAeZWDvRWGUUP94SoxRORDY02bay2EWec9-t7x8raphP81MsTlsyADb5g7QYRM3Tr6frcVnL03dIonhAtdm_H9ICbhoz8IDZOP9xT_uendILrTVRtJbNLTjhQ1wroZdzY3mvM21qEv40cJhu5gSqQ8iC1bPcIoSmMk0P2D_6xVYsrMty4z3Tibb-1ycYz0hDLShgfeIOgcspOtCYZk7YY8raMdY6Qab63G3L78wAJk4NCSp1dwETXMjt1iuMpJjJIA_Glh7nfao88CCj_22NRymZH7zLer296xBa2RlkH_9lyU29wmxZ6gFwbepv2gtr4xn87FOYcSXMRWFKTXFZzfmcChAXYrRNtkTpKYfBZRIW1eTE4S1fYf4f_-jgcWjTCLfxYzlw5OVKu5ko8uZpvrI5qtHRuKxhACX0m58--Ibo90-UNEY26f5vJgqdBj4gFNYdKFKQoLCSbc3YmyrsVEPccaZJAqdxfI5C7JqplfCQpAUoJ4ka69NlBq6xkggeEhNf_7jstFBhE7EgUzFWRL2rz43NS2lcQrjICkI9GnMYjSZGCNSF5J6aS6XkwT8OcZjCsSv-1uOlk2UmBNj5MKHjIVry4LiSlunv4hVkS3QoBP2NpckpPzSpDkhCBeJNsB55CTLJhhtt46HrUM0sFrDfi8Dz-9Qp7fXGVjtUQaer66Xm_REoc7-AQT-jLtnREvFUNUXMO4H9UYktYs49jCOHHAgKLgYv-m-2U6IBUquGYB7XLQgpCqIcgdGksdgfP69oRU_gNML7mrK1reH_XaBK20cSN000sKZEkZS4WMotcWV55yqWRiLRsGBh8QLc5bHsKl8IdE28cP-lVdey1eEPSptHgjQu20oH0FmhMm4ggxaoQMVBkWjgA20o1oJmjtCDwu9KWQzp51eGDrYma4MQaJ4yRn1i7g2w52zqASKhHIArSePx89NeBSAg8z5BEyTBY5nFVWe6GVBH22NYWWo6HdyLad-HOIT6FGg2cLjJAIoAWanN7IOgB47_R562Bl9GN2ire5RfwB47Vmjh_3BL4Z64pd3AwM3SKY4kCElCjaCMmFkVV_vaKxpLlhMcflYB9dc_YkY9yIxzmJJYq7RlkoaMnZdAGvSu8081-ZTIENdT3Bn0lA0duRFhRzyMQlbvphgu0izPIQ7D7VPSdIm7LeFoyXsAFoAmoAU0jQfSH11mp3jIhQMRwfQZh34OwQg-oEKy-sHgwbf8TLPABGJGrgzoqXhXIJprFUL5didxwFTvo6iFyr0DqbDbisvWc3aqZXoH51_ckHsYEmXJb7sYt0pDzCbuhSjNoXYUlUUx0iETVwt3OYFMq-bVXcrHhqiK3F0lzWo79RyD5ACtgTi46Q64OvHeTge9zpwe0W7oGNbeSjuW63R8cAaotvXXy4LvMzjyX7A7Le-oiykQwBAkAXPOKlmSKxMzeyY0QmNEcf9mJ6KSmmXRkKJuCGHSyOLjPJ3nwEPe4RRXgK_5J6vCu5JMx5MZ0qbpQp8VZfVLzvAegKUcIHpUSK4wTRbmqlt9c5d6l2elbCYkg24GYHDeapNu2_2VcRVdAPKCdI4pokAXcl1cs7sGbRt-snqYs1eFjXjhC3p0Yon0JaUxBu72u7pc-OSsahkEUMWy0pIqQrZeBxQ1yl-aMhy6FteA_Y10pUWOs5i6yevSuulqaBOqQkHIuslj4DD-mvpUq9wUgqf7k9KTfjoYHF6UjphVzDHx-xXnHvJNKErq9ScYFfCt8B3oKXvUawfQBYmmn9FmwdMlZrbtXCJUvOydFFqblRq96tbm-Vqo7a1XWlsbzbWS_NSc_N-Y2ez3KhtlyuNaqWys321Xvok3LRyv1zZKZd3apUdsNiqbcFyJHzD7Ub_iwj_JXH1f3Q3jeI) | [Edit](https://mermaid.live/edit#pako:eNqNWdtuG8cZfpXBFoYSQHR40oFEUYCkVgpbkVRIykYL3Qx3h-RAuzubmVlJjKALJ70onNROYqEujLrKwUGBAu4BTYteFH0YvUD9CP1nD9xdcZb2lUjOP4f_8P3fN6NLw2I2MZrGvXuX1KOyiS435Jy4ZKO5McGCbGyi6PsDzCmeOERsgAna8Dl1MV90mMM4mP6k0d5qtLeVdTwyJhdyOTqdTjNDbcZtwpeD251afbemxh3qkfRna2drx1Y_C2Ixz87uZu7UO7VOeDbCJc0O7dcanUpVDXlMkvbpbDlS3WmZ2-VkRHe-cEb-cBVzt15vbFzBqEs928W-8n_Dx7ZNvRl8rmyFE20y8rGV-ckhZ8RJf6uWy1dXV_funXjxMiceQpwx-d57bc4svCFQixP80wn_4Gdj4vqMYyf8Mjgj3MG-QG9u_vTN---raQhV_vfvp7effY963cPD7sjsDPp7aNztdfsH4Zw3N9c_ol7r54MhGjwwh4etI3T79O8wJ5qNUDWePyIfB8SDADroCE5BhIDTwk7X3yWWCNVi22q9XKrVy65A2JL0DEvKPHQOzrBzWP1vqxOOCD4VaEKmjBOEIU1W4ESz3tw8-82qfYdB6KmHJRFIxiFAFhYWtok60_PVKfucuQgHNpWML5BkyGXwCVmMS3KRm5N4fDRnHuR2Ri1YfEzd2N9Xq2vXy-XSdln566eh0To6WjiOggYSZOZCOCMnb__waSbimbDACQBPYKxibxUHPCkDFFaksmNTJFjg2aoYrh_fda0X-h77tAxmFO8nf11d_5B6kB8ImkU4mRDHCdyCMB9xYlFxJ4ky2ihfWOmcHnUcGiEXAqjmq0keITax0e2LbzVhDCaxPfUA1mfYEcjiVIap0tfvcL6Qczdfu0_-ubp0m2BZUu3MTo795uaHRzpHmWA2tZCPJRzBU4F-8p81qeFkBvGAQy6QTSSxkvJ-rAlIIEJPeHRm5eOML_PzrzywR-ZHx2a_Y6Ke2RsMf1mE6jc3X__3bkweMn6qPOwRV4ECTF5rAtJC9ToCZCI_Cwg4-W_XGYsFVDc4aSEheWDJgJOCOS3VIwiaUi5kbp9F4qOmIAH6PN3nInGpMP7gHvXA3o3CKKD-8Yxoo3LAsavMlJejLPKe_W51-VpVwX6WmWIx2NADbOs7QNebOnHy_WwtPnup6xZJDJe41uP_Q0rARWseHiAb7y_-cde7Q3KhrEpJb1HQjhfWwLkadjUnmvM216Iu4UcLh-1iRoQ6iChYPcMpkmNPpPkB-1-vwZKVbVl6vHcz2d5n_ByrCWGgNQ28T-Q5YCFdFwpL3wn7TEI7xlI12FyPu335hQbIxKYhSa3nJmiapdxiucpIjpEA_mho7nU74-4DEz4OOuZolJL5zbeoN9gzh62xmUH-9V9W2NwnxJqjFgTfov6ytbzSns3HKoURX8ZUFKZUF592zOFQgKoUo22yJ0hNPwooEZaqJjsIa_sO8f_-Rw2LR5lEvoM9Lx-erFRxpqUe8xTVRzZfPdISj8k5uJR249sX32jt9oGKJtg6zedFV6GjwAecwqJLVRISFE66vRZjO1uleogz5gki0Vksn7Mgq2Z6JSwESQHqSbL2WkepoWseCTgLqenPf1w1OojQiRiQKT9Lwv7V57qmJRVOYRwkBYE-jb0YTTrGiNSFoG6ay9UkAX9O8IQC8av-lqNlHSXmxBi58CFj4dqioLjS1ukvY1VkCzRoh73NIQkpv9RpTgjCRaINcB45ybIJRjut41HrEA3N1mjQz8DzO9Tt73WHZmecgeer69UmPZWou38AgT9jzhlRUjFU9QWM-0F9K5LaRRx7GEcOOBAUXIzfdN9sJ8QcJdcMwD0uWhBSFUS5AyPBYjA-_17Tih_A6TlzFGWr28N-p8CVDg6Eahpp4cyIR1Lhoym15ZXnnMp5GIutggOPiBvmLI9hXflCoi3ih_0rr7xWrwh7VFgs4KB3O1A-nMyJJ-IK0miFLlQYFI0ENlCOKiWo7wh9zNWmkM2cdnqh6WBnqjI4ieIl5tQv4toMd86jEigSygG0njweP9fhkQMOMufjME0UOJ5VVHmiFwV9tDWBlaGi38m1nPqxiU-gR4FmC4-TCKAEmN3-2DwAeuwO-uhhd_xhdIs2e0eDIeC1b44fDoa_GKmJX94NDNwgPcmADCmRsBGUiUfW9fWuwpriguUUh01UcPXVn4hxNxLjXixJ9DXakklDxo4DYE16t57nOmwGZKjqCe5MCorajryskEM2IWHL51NsFWmWh3DnodYpSdqE9bZwtLgVQAtAU5BCiuYDoa5O83NchILR-ADarA1_RwBEP5Bhef2g0eANN_MMEJGohjsjWhotBJjGWrVQjt15HNDl6yh6oULvYDrqtfKSVa-dWon-UfknF8QKVnRZ4ksbq055gL2ZQzHqUIgtlUVxjETY1FHCbVEg83pZdbfmoSG6Ekd3WY36Ti33AClgSyA-dqoDvn6ch-Nxvwu3V9QGHdvKQ3HfbI2Ph-YI3b7-clXgZR5P9gPPeusrylI6BAAEUfCMk2qGxErXzI49OqUx4pgf01NRKbVpJJSIE3K40LLIOH_3GbKwR2jlJfBL7vmq4J40Z8FsLpVZqsDXdVn1sgOsx0EJF5geJYIbTLOlmdpW79yl3uVZCfMZKcHNCBzOU23afbOvIo6kJSgnSOOEJgJ0LdeJhWfNoW3TT9YXa_ayqBgnbEmP1jyBtoQg7sRRdk-fa5eMRaUXMWSxrISUypCNJwF17OKHhiyHvuU1YF8hXSqhYy-3fvLK2DRmnNpGEw5ENg2XgMPqq3GpVjgxwqf7E6MJH23MT0-ME-8K5vjY-xVjbjKNq8oymlPsCPgW-Da09D2K1QPI0kTxL--wwJNGcytcwWheGhdGs1Qp3y9Xazvbje2dSrVaa1R2No2F0azfb9QblcbubqNWK9eqtd2tq03jk3DXyv1ypVEuN-o75UatsV3brm4aJHzE7UX_jAj_J3H1f__ujh0)
 
 # Hierarchy
 
+- ⏱️ MILLISECOND TIMING  
+  - 🔢 Sequential Processing  
+    - ⏰ 240-340ms activation window  
+    - 📈 Peaks before articulation  
+    - 🔗 Coordinates temporal cascade  
+    - 🔗 From auditory to motor cortex  
+  - 🔤 Phonological Timing  
+    - ⏰ 400-600ms processing  
+    - ✂️ Syllable segmentation  
+    - 🔢 Phoneme sequencing  
+    - 🔊 Temporal ordering of sounds  
+  - 🎯 Motor Timing Coordination  
+    - 🔗 Links to cerebellum  
+    - ⏱️ Precise articulation timing  
+    - ⚡ Millisecond precision needed  
+    - ⏱️ Subsecond intervals critical  
+  - 🎵 Rhythm Processing  
+    - 🥁 Beat-based timing  
+    - 🎼 Prosodic patterns  
+    - 📊 Temporal regularity detection  
+    - 🎶 Musical rhythm integration  
+
+- 💾 SEQUENCE MEMORY  
+  - 💭 Working Memory  
+    - 📍 BA 44 for phonological  
+    - 📍 BA 44 for syntactic structure  
+    - 1️⃣ Active first for phonology  
+    - 2️⃣ Later for syntax  
+    - 💾 Temporary information storage  
+  - 📖 Grammatical Sequencing  
+    - ⏰ 320ms grammatical component  
+    - 📝 Inflection processing  
+    - 🔢 Syntactic ordering  
+    - 🌳 Hierarchical structure  
+  - 🔗 Lexical-Phoneme Linking  
+    - ⏰ 200ms lexical component  
+    - 🔗 Links phonemes to gestures  
+    - 🔄 Sequential transformation  
+    - ⏱️ Temporal coordination  
+  - 📤 Information Forwarding  
+    - 🎯 Network coordinator  
+    - ❌ Not seat of articulation  
+    - 🔗 Mediates cascade  
+    - 🎯 Pre-articulation processing  
+
+- 🔮 PREDICTIVE PROCESSING  
+  - 🎤 Speech Anticipation  
+    - 🎯 Prepares motor sequences  
+    - 🔮 Before actual speech  
+    - 😴 Quiescent during articulation  
+    - 🎯 Forward planning  
+  - 👁️ Self-Monitoring  
+    - ⚠️ Error detection  
+    - 🔄 Feedback processing  
+    - 🔗 Superior temporal interaction  
+    - ⏰ 275-400ms onset variable  
+  - 🎭 Action Prediction  
+    - 🪞 Mirror neurons  
+    - 👋 Gesture observation  
+    - 💭 Intention understanding  
+    - 🎯 Motor simulation  
+  - 📊 Probabilistic Processing  
+    - 🔮 Phonological expectations  
+    - 🔮 Syntactic predictions  
+    - 📝 Word completion  
+    - 🔮 Context-based anticipation  
+
+- 🤔 CAUSAL REASONING  
+  - 🧠 Left IFG Involvement  
+    - 📍 BA 44/45 active  
+    - 🤔 Logical inferences  
+    - 📍 Near Broca's area  
+    - 🗣️ Linguistic reasoning  
+  - 🧠 Ventrolateral PFC  
+    - 🎭 Causal simulation generation  
+    - 📍 Overlaps with BA 45  
+    - 💭 Semantic processing  
+    - 🔗 Conceptual integration  
+  - 📖 Discourse Comprehension  
+    - 🔗 Implicit causality  
+    - 📚 Narrative structure  
+    - 🔗 Event relationships  
+    - ⏱️ Temporal coherence  
+  - 📋 Rule Processing  
+    - 📖 Phrase structure rules  
+    - 🔄 Grammatical transformations  
+    - 🔗 Abstract relationships  
+    - 🌳 Hierarchical dependencies  
+
+- 🌐 INTEGRATION WITH TEMPORAL NETWORKS  
+  - 🔗 Frontoparietal Connection  
+    - 🧠 Inferior parietal lobule  
+    - 💭 Working memory network  
+    - 👁️ Attention allocation  
+    - 🎯 Cognitive control  
+  - 🔗 Temporal Lobe Interface  
+    - 🔗 Wernicke's area connection  
+    - 🔗 Arcuate fasciculus pathway  
+    - 📥 STG and STS inputs  
+    - ⏰ 39ms temporal onset  
+  - 🔗 Motor System Links  
+    - 🧠 Premotor cortex  
+    - 🧠 Primary motor cortex  
+    - 🎯 SMA coordination  
+    - 🎤 Articulatory execution  
+  - 🔗 Basal Ganglia Circuit  
+    - 🎤 Speech fluency  
+    - 🔢 Motor sequencing  
+    - ⏱️ Timing regulation  
+    - 💊 Dopamine modulation  
+
+- ⭐ UNIQUE BROCA TEMPORAL FEATURES  
+  - ✂️ Segmentation Function  
+    - 🔤 Phonological units  
+    - 📖 Syntactic units  
+    - 🔗 Unification operations  
+    - 🔗 Binding elements  
+  - 🔄 Transformation Role  
+    - 🔄 Sensory to motor  
+    - 🔄 Thought to speech  
+    - 🔄 Abstract to concrete  
+    - 🔄 Planning to execution  
+  - 🎯 Network Coordination  
+    - 🌐 Large-scale integration  
+    - 🔗 Multi-modal binding  
+    - ⏱️ Temporal synchronization  
+    - 🔁 Information relay  
+  - 🏗️ Sequential Assembly  
+    - 📝 Word construction  
+    - 📖 Sentence building  
+    - 🔢 Grammatical ordering  
+    - 🎤 Fluent production  
