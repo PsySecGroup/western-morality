@@ -21,7 +21,7 @@
     - ⏰ Emerged 0.5-4 million years ago  
 
 - 🧬 Primary Transcription Factors  
-  - 🧬 FOXP2  
+  - 🧬 [FOXP2](https://claude.ai/share/814829f8-6471-4cd2-bfbb-ed5df8c00389)  
     - 📚 Most well-studied gene  
     - 🧠 Expressed in basal ganglia and inferior frontal cortex  
     - 🧠 Critical for Layer V development  
@@ -31,20 +31,20 @@
       - 🧬 [SRPX2](https://claude.ai/share/cb35c712-33e3-4151-98a1-e50f56072ebf)  
       - 🧬 [DISC1](https://claude.ai/share/e0cc03b4-c4d6-4ddf-9f2f-949d1127ae1a)  
       - 🧬 [MET](https://claude.ai/share/797c7f2d-2d22-4768-8a77-3b9f8fe14d70)  
-      - 🧬 VLDLR  
+      - 🧬 [VLDLR](https://claude.ai/share/496fd5b4-9289-4d7d-a395-5e7b1f030d7f)  
   - 🧬 [TBR1](https://claude.ai/share/67addc2d-a6a7-4b16-a5ad-dc6e2a7b8ed1)
     - 🧬 Activates [FOXP2](https://claude.ai/share/814829f8-6471-4cd2-bfbb-ed5df8c00389) expression  
     - 🧠 Neuronal migration  
     - 🧠 Axonal projection  
     - 🧠 Layer VI development  
     - 🧠 Colocalizes with [FOXP2](https://claude.ai/share/814829f8-6471-4cd2-bfbb-ed5df8c00389) in Layer VI  
-  - 🧬 TBR2/EOMES  
+  - 🧬 [TBR2/EOMES](https://claude.ai/share/8af418b4-49d0-4a25-b752-b10f7d7bf92f)
     - 🧠 Pyramidal neuron differentiation  
     - 🧠 Regulates laminar identity  
     - 🧠 Regional cortical identity  
 
 - 🏗️ Structural Proteins  
-  - 🧬 DCX  
+  - 🧬 [DCX](https://claude.ai/share/1a2cf4da-8b23-4ce2-a669-eae9f2d80f67)  
     - 🧬 Doublecortin protein  
     - 🧠 Six-layered cortex formation  
     - 🧠 Cell migration control  
@@ -52,7 +52,7 @@
     - 🧬 Cell adhesion protein  
     - 🗣️ Essential for language development  
     - 🧠 Cerebral cortex development  
-    - 🎯 FOXP2 target  
+    - 🎯 [FOXP2](https://claude.ai/share/814829f8-6471-4cd2-bfbb-ed5df8c00389) target  
   - 🧬 [SRPX2](https://claude.ai/share/cb35c712-33e3-4151-98a1-e50f56072ebf)  
     - 🔗 Synapse formation  
     - 🗣️ Speech and language centers  
@@ -60,13 +60,13 @@
     - 🎯 [FOXP2](https://claude.ai/share/814829f8-6471-4cd2-bfbb-ed5df8c00389) target  
 
 - ⚙️ Supporting Regulators  
-  - 🧬 CASK  
-    - 🧬 TBR1 coactivator  
+  - 🧬 [CASK](https://claude.ai/share/37fd0249-fa30-4d1e-adca-c9e1c96c5a6a)  
+    - 🧬 [TBR1](https://claude.ai/share/67addc2d-a6a7-4b16-a5ad-dc6e2a7b8ed1) coactivator  
     - 🧬 Activates [FOXP2](https://claude.ai/share/814829f8-6471-4cd2-bfbb-ed5df8c00389)  
-  - 🧬 PAX6  
+  - 🧬 [PAX6](https://claude.ai/share/c6919105-a3da-493f-bcc4-0911f90f4a09)  
     - 🧠 Neuronal progenitor differentiation  
     - 🧬 Binds [FOXP2](https://claude.ai/share/814829f8-6471-4cd2-bfbb-ed5df8c00389) locus  
   - 📍 Differentiation Markers  
-    - 🧬 MAP2  
-    - 🧬 GAP43  
-    - 🧬 mir-9  
+    - 🧬 [MAP2](https://claude.ai/share/8a548d5a-32ff-417d-900a-329fbd6c880c)  
+    - 🧬 [GAP43](https://claude.ai/share/85d88679-867b-4a08-93e1-f9b7371d5daa)  
+    - 🧬 [mir-9](https://claude.ai/share/db5054e1-af5e-4ba6-b1a4-9dac328b800c)
