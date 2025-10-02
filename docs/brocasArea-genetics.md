@@ -8,11 +8,11 @@
 ## Hierarchy
 
 - 🧑 Human-Specific Expansion  
-  - 🧬 NOTCH2NL  
+  - 🧬 [NOTCH2NL](https://claude.ai/share/69ff4e13-9d4f-4535-8133-9e6b18c2d850)
     - 🧬 Three paralogs  
-    - 🧬 NOTCH2NLA  
-    - 🧬 NOTCH2NLB  
-    - 🧬 NOTCH2NLC  
+    - 🧬 [NOTCH2NL](https://claude.ai/share/69ff4e13-9d4f-4535-8133-9e6b18c2d850)A  
+    - 🧬 [NOTCH2NL](https://claude.ai/share/69ff4e13-9d4f-4535-8133-9e6b18c2d850)B  
+    - 🧬 [NOTCH2NL](https://claude.ai/share/69ff4e13-9d4f-4535-8133-9e6b18c2d850)C  
     - 👤 Unique to humans  
     - 🧠 Cortical progenitor expansion  
     - 🧠 Delays neuronal differentiation  
@@ -27,17 +27,17 @@
     - 🧠 Critical for Layer V development  
     - 🧠 Drives neuronal differentiation  
     - 🎯 Target Genes  
-      - 🧬 CNTNAP2  
-      - 🧬 SRPX2  
-      - 🧬 DISC1  
-      - 🧬 MET  
+      - 🧬 [CNTNAP2](https://claude.ai/share/c00f30e8-10ff-48f5-9fe2-b08a8dd174a5)  
+      - 🧬 [SRPX2](https://claude.ai/share/cb35c712-33e3-4151-98a1-e50f56072ebf)  
+      - 🧬 [DISC1](https://claude.ai/share/e0cc03b4-c4d6-4ddf-9f2f-949d1127ae1a)  
+      - 🧬 [MET](https://claude.ai/share/797c7f2d-2d22-4768-8a77-3b9f8fe14d70)  
       - 🧬 VLDLR  
-  - 🧬 TBR1  
-    - 🧬 Activates FOXP2 expression  
+  - 🧬 [TBR1](https://claude.ai/share/67addc2d-a6a7-4b16-a5ad-dc6e2a7b8ed1)
+    - 🧬 Activates [FOXP2](https://claude.ai/share/814829f8-6471-4cd2-bfbb-ed5df8c00389) expression  
     - 🧠 Neuronal migration  
     - 🧠 Axonal projection  
     - 🧠 Layer VI development  
-    - 🧠 Colocalizes with FOXP2 in Layer VI  
+    - 🧠 Colocalizes with [FOXP2](https://claude.ai/share/814829f8-6471-4cd2-bfbb-ed5df8c00389) in Layer VI  
   - 🧬 TBR2/EOMES  
     - 🧠 Pyramidal neuron differentiation  
     - 🧠 Regulates laminar identity  
@@ -48,24 +48,24 @@
     - 🧬 Doublecortin protein  
     - 🧠 Six-layered cortex formation  
     - 🧠 Cell migration control  
-  - 🧬 CNTNAP2  
+  - 🧬 [CNTNAP2](https://claude.ai/share/c00f30e8-10ff-48f5-9fe2-b08a8dd174a5)  
     - 🧬 Cell adhesion protein  
     - 🗣️ Essential for language development  
     - 🧠 Cerebral cortex development  
     - 🎯 FOXP2 target  
-  - 🧬 SRPX2  
+  - 🧬 [SRPX2](https://claude.ai/share/cb35c712-33e3-4151-98a1-e50f56072ebf)  
     - 🔗 Synapse formation  
     - 🗣️ Speech and language centers  
     - 🧠 Rolandic area expression  
-    - 🎯 FOXP2 target  
+    - 🎯 [FOXP2](https://claude.ai/share/814829f8-6471-4cd2-bfbb-ed5df8c00389) target  
 
 - ⚙️ Supporting Regulators  
   - 🧬 CASK  
     - 🧬 TBR1 coactivator  
-    - 🧬 Activates FOXP2  
+    - 🧬 Activates [FOXP2](https://claude.ai/share/814829f8-6471-4cd2-bfbb-ed5df8c00389)  
   - 🧬 PAX6  
     - 🧠 Neuronal progenitor differentiation  
-    - 🧬 Binds FOXP2 locus  
+    - 🧬 Binds [FOXP2](https://claude.ai/share/814829f8-6471-4cd2-bfbb-ed5df8c00389) locus  
   - 📍 Differentiation Markers  
     - 🧬 MAP2  
     - 🧬 GAP43  
