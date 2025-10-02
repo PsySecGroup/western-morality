@@ -6,66 +6,66 @@
 
 # Hierarchy
 
-- Human-Specific Expansion 🧑  
-  - NOTCH2NL 🧬  
-    - Three paralogs 🧬  
-    - NOTCH2NLA 🧬  
-    - NOTCH2NLB 🧬  
-    - NOTCH2NLC 🧬  
-    - Unique to humans 👤  
-    - Cortical progenitor expansion 🧠  
-    - Delays neuronal differentiation 🧠  
-    - Increases neuronal output 🧠  
-    - Outer radial glia function 🧠  
-    - Emerged 0.5-4 million years ago ⏰  
+- 🧑 Human-Specific Expansion  
+  - 🧬 NOTCH2NL  
+    - 🧬 Three paralogs  
+    - 🧬 NOTCH2NLA  
+    - 🧬 NOTCH2NLB  
+    - 🧬 NOTCH2NLC  
+    - 👤 Unique to humans  
+    - 🧠 Cortical progenitor expansion  
+    - 🧠 Delays neuronal differentiation  
+    - 🧠 Increases neuronal output  
+    - 🧠 Outer radial glia function  
+    - ⏰ Emerged 0.5-4 million years ago  
 
-- Primary Transcription Factors 🧬  
-  - FOXP2 🧬  
-    - Most well-studied gene 📚  
-    - Expressed in basal ganglia and inferior frontal cortex 🧠  
-    - Critical for Layer V development 🧠  
-    - Drives neuronal differentiation 🧠  
-    - Target Genes 🎯  
-      - CNTNAP2 🧬  
-      - SRPX2 🧬  
-      - DISC1 🧬  
-      - MET 🧬  
-      - VLDLR 🧬  
-  - TBR1 🧬  
-    - Activates FOXP2 expression 🧬  
-    - Neuronal migration 🧠  
-    - Axonal projection 🧠  
-    - Layer VI development 🧠  
-    - Colocalizes with FOXP2 in Layer VI 🧠  
-  - TBR2/EOMES 🧬  
-    - Pyramidal neuron differentiation 🧠  
-    - Regulates laminar identity 🧠  
-    - Regional cortical identity 🧠  
+- 🧬 Primary Transcription Factors  
+  - 🧬 FOXP2  
+    - 📚 Most well-studied gene  
+    - 🧠 Expressed in basal ganglia and inferior frontal cortex  
+    - 🧠 Critical for Layer V development  
+    - 🧠 Drives neuronal differentiation  
+    - 🎯 Target Genes  
+      - 🧬 CNTNAP2  
+      - 🧬 SRPX2  
+      - 🧬 DISC1  
+      - 🧬 MET  
+      - 🧬 VLDLR  
+  - 🧬 TBR1  
+    - 🧬 Activates FOXP2 expression  
+    - 🧠 Neuronal migration  
+    - 🧠 Axonal projection  
+    - 🧠 Layer VI development  
+    - 🧠 Colocalizes with FOXP2 in Layer VI  
+  - 🧬 TBR2/EOMES  
+    - 🧠 Pyramidal neuron differentiation  
+    - 🧠 Regulates laminar identity  
+    - 🧠 Regional cortical identity  
 
-- Structural Proteins 🏗️  
-  - DCX 🧬  
-    - Doublecortin protein 🧬  
-    - Six-layered cortex formation 🧠  
-    - Cell migration control 🧠  
-  - CNTNAP2 🧬  
-    - Cell adhesion protein 🧬  
-    - Essential for language development 🗣️  
-    - Cerebral cortex development 🧠  
-    - FOXP2 target 🎯  
-  - SRPX2 🧬  
-    - Synapse formation 🔗  
-    - Speech and language centers 🗣️  
-    - Rolandic area expression 🧠  
-    - FOXP2 target 🎯  
+- 🏗️ Structural Proteins  
+  - 🧬 DCX  
+    - 🧬 Doublecortin protein  
+    - 🧠 Six-layered cortex formation  
+    - 🧠 Cell migration control  
+  - 🧬 CNTNAP2  
+    - 🧬 Cell adhesion protein  
+    - 🗣️ Essential for language development  
+    - 🧠 Cerebral cortex development  
+    - 🎯 FOXP2 target  
+  - 🧬 SRPX2  
+    - 🔗 Synapse formation  
+    - 🗣️ Speech and language centers  
+    - 🧠 Rolandic area expression  
+    - 🎯 FOXP2 target  
 
-- Supporting Regulators ⚙️  
-  - CASK 🧬  
-    - TBR1 coactivator 🧬  
-    - Activates FOXP2 🧬  
-  - PAX6 🧬  
-    - Neuronal progenitor differentiation 🧠  
-    - Binds FOXP2 locus 🧬  
-  - Differentiation Markers 📍  
-    - MAP2 🧬  
-    - GAP43 🧬  
-    - mir-9 🧬  
+- ⚙️ Supporting Regulators  
+  - 🧬 CASK  
+    - 🧬 TBR1 coactivator  
+    - 🧬 Activates FOXP2  
+  - 🧬 PAX6  
+    - 🧠 Neuronal progenitor differentiation  
+    - 🧬 Binds FOXP2 locus  
+  - 📍 Differentiation Markers  
+    - 🧬 MAP2  
+    - 🧬 GAP43  
+    - 🧬 mir-9  
