@@ -1,8 +1,181 @@
-
 # Mind Map
-<img width="1920" height="833" alt="image" src="https://github.com/user-attachments/assets/fb9e2e19-6891-47bd-ac1f-b4cf465199e4" />
+<img width="1920" height="872" alt="image" src="https://github.com/user-attachments/assets/407421a0-8226-4291-ae26-84d1964e0b09" />
 
-[View]() | [Edit]()
+[View](https://mermaid.live/view#pako:eNqNWutuHLcVfhViC0MJYFvSri6WUNeQVpItwKoFS7HbQn-4M9xZQjPklOSsvTH0I0gCBK5r15YQp25cu4kC9-IkvQBFgQJ5GL1A_Qg9vMxld0k7PwTs7hySh-fyne-c0b1WxGPSWm2dO3ePMqpW0b0ZNSAZmVmd6WFJZs4j-_0WFhT3UiJnQATN5IJmWIy6POUCRH_SWVi5tLGupd2TfXJXVU_7_X7j0ToXMRHVw3a3s7k4p5-nlJHq56VoeXE51j9LEnEWN0_bXF7odrpGNyIUbT7a6qx059v6EeOKrB8m1ZOV9cWV9aXyiU8_s2JcuUubCwtrGzNH8DSjLM5wru8_k-M4piyBz_OLZmFM9nIcNX5KyZCk9W_tubmjo6Nz5w6Y2-aAISQ4V--9d-v67lb3pz0x-7P1NbSwMLuwOLuwbL53ORsSkRAWEfTmxauX77-vVyE0_7__PDr7-Gu0LniEZyRaEwSjrYJFinImQfTp1yBhZRFqO-k98uuCMLBWinZhIZESVAPhk69KSYQ6TnZ3wBmYIKERSEuzMHLSp9PSeyOmMBweIWM8K3j8-bTgDldcIEUzLRJxkKYMa6XR2aN_NFSuV1yjRGARDawiShSRKoS2xoN_TQvvkyznAgR7YGOn7tNJM-wLzGSfi8wefCOHA0q7nXzi2XTAi2SgkOJI5oREA5B78u3ZH_8EzycsXS9a64GuYBK9CoI3EkSRwP57hEkuRloyM-bxi-2mmDF9J5Ajd0lUGO3fvHj4_eQFb3NxqAV3SKb3BW1_eIeDU85zfexHb3NthilThGEbjMfPp2W3WW1W-HQHC-eE49Ogr0BBCZfGCRlTtLzLriAxNWGNrhLmPKVV_c6jqvUOhhCPaF5KPjwNhWEuSI6rHWs71nJb9hLgl5ikOj6OP5sW2hQCNovBwVbPs2cvq5AoE_UDFoH3RugWTlMyQjeJzCHg9JW_-PvklbtYkUQ7bi3r0aSgSrvw9MSTGkWGGRpKxDi7MDBf3rx4fHr2_BjkPcm3S0REclWAwyEk-ynYFZQ98cbv5t0crmNtM6Q8La307M_Tsk5hE0mAQQDIOlJGCBR5izut2TYqs4Fx73s8RSUEFHg1H0Os305L3qISbnbBphBlcMNEFA45H3-khZ4_8Ht5hw-hvjGlA6LUro9pqnGm6czmmnVaJQ-cOGWlf8Nhk3dfS_QZa0oJ2rPJuwdwliSp1vDht750UhquOcOpDgIsJRjAKKoByHMPeGRAEvwBFugTURUOT7IAqqUx2kaZWUU_JFcCYbbHI2pCJgF6oNUOBE95z01rEFhykyRFZZMvPJGzQWVSSIVEmQ9jXj79ygfGUOoUIkOcFngq3ZqS1ymkT4TkSCqSIQ1dGo8dejz1RLG935CANjjPBaYSrtDE4ipBy_tDGvPUuhLcCnimAjiyrQsAkKkYmVqPtCLD0jA-TKmVAWMrwVNEWAIYGesDvgum4EjDrqnT2OpjaprH8A3Ny0i_jGIqI57BDqqBS_PVCYU0LsWSM-efk2noMkJ7NCv9PgbaviC_TvoKlbwHxRyYAQA4Onv9qderXV5oT_bBghrH1ICyQ4cJnwQzwsC3tqTlD1aZR0-9B-xFUOIE5Shpal5Xu3a1dTTADNAJTAK4IfVJLh5_7ycy_A5cj0j0CxSBmQj65ZVAJDpyZtV2BfS-Hx5EBoil0x2CPJcBLlexonjEcEYjOUG2yitdG-UcqL6kEpZI5cz6enpD51SCcAoqaAI3JDIASps2UyG1U7g17dHUFjTfjbo8g4JMGjgsA6X-gzzWe_bAPqQvvVlaMbCbBSDsGOE9_o3Hmv0LcHcGyW8jVw6oNajHQdcd8jcx1oec1k6ArWUYPfidxzuGjhKBUoIFm4zlAKfTvk-q6PTZ_RoHdIc0VDSH65uIC8YHmOnwR118Rxd2-EMDFyrW7T_4SG3Va4gGZJTHV6jCwd1Vl6PqrJITeTRJIIYTLvUFSRWmpCYzMgi4NvSAXFOWFypAMixdQZljJUQGy4-L0Io5-uCppJeyxssmSLZ9LdDeO1qgqwJn0GMDnA_cslGgF3NgDQanYJZxeW-BLGuM6WwnV_jyudkEQesU0T4UZF90NwoGZjEQsgr4fCXD8XzL9MZt5-H6lnb1yAADQ5uQf3waNEtW4XtjRQjbDRSzqtKMlY6xOjNFIZr818etrTuVcX3FME0Qf96gmF6OH-DAwRtTqBLSITS1YPHUK9_sDXqQ3Z48CMDWtaIXwIsKWdysIQhWBtcik61UOlPcD2Fa7Tr5Fo6dCEeYq-bVNzaoKVnXUTI_Fat6O8oGYEy33x8ee3TEElS8QwFIwhSmihRRU7ZQ03aV6xAca9NLNloC7s9JoZnAmoYTHXkWSF69nqqeUNWBi-mw2-WyvMWxBxINd0MQOpACOsG2t66-RXJRt-c_RnAZcQHWg_PDcoY7DgigcT6AQhxij42kYzrZhpqB7GqGLFio0m1wIe3AieBM45eON6JsR-CRvwUgI8YWqJJ1hUgesQAWAd8mdxHg3WGQb4y1MpG7Bg8qD3v3BTfUlxF1B3JQjpGP0iDlxBDkAGdiCncI5dNu5d_LFnhn8-YAKQC9rFojSWbmMrO4rAl-2nLDOf0yImUbOSttAwo9yX0vQMbQFpny0qRadZFvV6FvTDHBnXyU7DpmSaEnUs56aGBwKzDq23ENtM7hcoG_5960Y7tGV1fL-6Bkp6RvsbZeXAZADRT1eAlKK1hBs5jCIrPu1bgZLTz57xSJsrEPoOugZ5MllJEA57FwD7sPJeI9ScTQtKFe1IWYTw3twRWo-frhDTKk1gH-sZmXdmAoTglz84_phmy7IuOO95lJqo-Wb9FUV0eUYEN0X_3FTwdTPbJ9VzlyfBTxQkFRIsF-hcVESKWdSMupznjHVIPUwF3DdU5wjbMvP_UhFJwG_S_0ifhQKwo1JzTC2XaSSc0mrgRYYSlq5olXAhypFIoMcwj2sc2OD0hCZKjA2ZfH066rM3KdK5WCAyOdFM_--paksFArdS6Z9iGghR5g26ZWgC-pMMHrq7QbgCDSja6jcOzeKJTuD8bHA6cTbQ2gucFF7fDNoavb2DRuEMQDO5eZKrq3gUnv666q8S6nmxYaeQNxWiEVIKxFycYME3z3TYgP13kHKwsxpEOL4t-H6KH24WWoawBahRlc-8ZKa2laWjnU1DQnAzzVUKJ4QsBDwstDbuue3A7NtjA1ndQTT4CXL8JwPsCSYtCUNd7WPPtbELx3OeQXnjCJnaJ7mO820E4TQTbwx1tbP1leA9frJkJjqCgy1CdYk64Q8EwNW2MCTRM1AfP4G89UeZvFQGhiTfg3aN9BYKiKl68hhvY1hMYM6vjQUPMbaQZ__g65CjWcK6qKmNRLjG0DI51JQ8lDjb7V0tMT_zrrcp05ma6WwkwnrNVewoopbgdpI3BOCv2iah8DGhiL-cJ5zYWIgI7QYFMZo4EImfII0BfqfO7Lr7rI910SI2WUGwWq_P7Onh1PD-u68OqfrfOtRNC4tQpRQ863MgK9if7auqd3OGiZd_IHrVX4GGNxeNA6YEewJsfsV5xn5TKhX122Vvs4lfCtMDOJDYp1HahECDPvuwumWqudjtmitXqvdbe1emF-7mJ7eWluaW5uZbE9vzy3tHy-NWqtti9dXFxZmlvoXGovdtqdlaWj860PzanzF-fmV0C6szi_3JnrLOgFgEdQxHbsfxmYfzY4-j-XjNpb) | [Edit](https://mermaid.live/edit#pako:eNqNWutuHLcVfhViC0MJYFtaSasb6hrSSrIFWLVgKXZb6A93hjtLaIackpy1N4Z-BE2AwnXt2hLi1I1rN1HgXnLpBSgKFMjD6AXqR-jhZS67S9r5IWB355A8PJfvfOeM7rciHpPWWuvChfuUUbWG7s-oAcnIzNpMD0sycxHZ77exoLiXEjkDImgmFzTDYtTlKRcg-qOFxdWVzQ0t7Z4ckHuqetrv9xuPNriIiagezncXtjpz-nlKGal-XoqWO8ux_lmSiLO4edrW8mJ3oWt0I0LR5qPthdVue14_YlyRjaOkerK60VndWCqf-PQzK8aVW9laXFzfnDmGpxllcYZzff-ZHMcxZQl8bnfMwpjs5zhq_JSSIUnr3-bn5o6Pjy9cOGRum0OGkOBcvffe7Rt7290f98TsTzbW0eLi7GJndnHZfO9yNiQiISwi6M3L16_ef1-vQqj9v_88Pv_Vl2hD8AjPSLQuCEbbBYsU5UyC6LMvQcLKIjTvpPfJLwvCwFop2oOFREpQDYRPvyglEVpwsnsDzsAECY1AWpqFkZM-m5beHzGF4fAIGeNZwZNPpwV3ueICKZppkYiDNGVYK43OH_-joXK94jolAotoYBVRoohUIbQ1Hv5rWviAZDkXINgDGzt1n02a4UBgJvtcZPbgmzkcUNrt9GPPpgNeJAOFFEcyJyQagNzTb87_-Cd4PmHpetF6D3QFk-hVELyRIIoE9t8nTHIx0pKZMY9fbC_FjOk7gRy5R6LCaP_m5aPvJi94h4sjLbhLMr0vaPv9Oxyccp7rYz96m2szTJkiDNtgPHkxLbvDarPCp7tYOCecnAV9BQpKuDROyJii5V32BImpCWt0jTDnKa3qtx5VrXcwhHhE81Ly0VkoDHNBclztWNuxltu2lwC_xCTV8XHy62mhLSFgsxgcbPU8f_6qCokyUT9gEXhvhG7jNCUjdIvIHAJOX_mzv09euYsVSbTj1rMeTQqqtAvPTj2pUWSYoaFEjLNLA_PlzcsnZ-cvTkDek3x7REQkVwU4HEKyn4JdQdlTb_xu3cvhOtY2Q8rT0krP_zwt6xQ2kQQYBICsI2WEQJG3uNOabbMyGxj3gcdTVEJAgVfzMcT67bTkbSrhZpdsClEGN0xE4ZDzyUda6MVDv5d3-RDqG1M6IErt-pimGmeazmyu2aBV8sCJU1b6Nxw2eff1RJ-xrpSgPZu8-wBnSZJqDR9940snpeGaM5zqIMBSggGMohqAPPeARwYkwR9ggT4RVeHwJAugWhqjHZSZVfRDcjUQZvs8oiZkEqAHWu1A8JT33LIGgSW3SFJUNvnMEzmbVCaFVEiU-TDm5bMvfGAMpU4hMsRpgafSrSl5g0L6REiOpCIZ0tCl8dihxzNPFNv7DQlog_NcYCrhCk0srhK0vD-kMU-tK8GtgGcqgCM7ugAAmYqRqfVIKzIsDePDlFoZMLYSPEWEJYCRsT7g22AKjjTsmjqNrT6mpnkM39C8jPQrKKYy4hnsoBq41K5OKKRxKZacOf-cTkOXEdqnWen3MdD2BfkN0leo5D0o5sAMAMDR-defeL3a5YX2ZB8sqHFMDSg7cpjwcTAjDHxrS1r-YJV5_Mx7wH4EJU5QjpKm5nW1m6-2jgaYATqBSQA3pD7JxePv_USG34XrEYl-hiIwE0E_vxqIREfOrNqugD7ww4PIALF0ukOQ5zLA5SpWFI8YzmgkJ8hWeaXro5wD1ZdUwhKpnFm_nt7QOZUgnIIKmsANiQyA0pbNVEjtFG5NezS1Bc13oy7PoCCTBg7LQKn_II_1nj2wD-lLb5ZWDOxWAQg7RnhPfuOxZv8S3J1B8tvIlQNqDepx0A2H_E2M9SGntRNgaxlGD3_n8Y6ho0SglGDBJmM5wOm075MqOn12v84B3SENFc3h-ibigvEBZjr6QRff1YUd_tDAhYp1-_c-Ulv1GqIBGeXxFapwcHfV5ag6q-REHk0SiOGES31BUoUpqcmMDAKuDT0g15TlhQqQDEtXUOZYCZHB8uMitGKOPngq6aWs8bIJkvO-Fmj_HS3QNYEz6LEBzgdu2SjQizmwBoNTMMu4vLdAljXGdLaTK3z53GyCoHWKaB8Ksi-6GwUDsxgIWQV8vpLheL5leuO283B9S7t6ZICBoU3IPzkLmiWr8L2xIoTtBopZVWnGSsdYnZmiEE3-6-PW1p3KuL5imCaIP21QTC_HD3Dg4I0pVAnpEJpasHjmlW_2Bj3Ibk8eBGDretEL4EWFLG7WEAQrg2uRyVYqnSkehDCtdp18C8dOhCPMVfPqGxvUlKzrKJmfilW9HWUDMKbb7w9PPDpiCSrepQAkYQpTRYqoKVuoabvGdQiOteklGy0B96ek0ExgXcOJjjwLJK-_nqqeUNWBi-mw2-OyvMWJBxINd0MQOpACOsF2tq-9RbKj2_MfIriMuADrwflhOcMdBwTQOB9AIQ6xx0bSMZ1sQ81A9jRDFixU6Ta5kHbgRHCm8UvHG1G2I_DI3waQEWMLVMm6QiSPWACLgG-Tewjw7ijIN8ZamchdgweVh737ghvqy4i6Czkox8hHaZByYghygDMxhTuE8mmv8u8VC7yzeXOAFIBeVq2RJDNzmVlc1gQ_bbnpnH4FkbKNnJW2AYWe5IEXIGNoi0x5aVKtusjPV6FvTDHBnXyU7AZmSaEnUs56aGBwKzDq23UNtM7hcoG_596yY7tGV1fL-6Bkt6RvsbZeXAZADRT1eAlKK1hBs5jCIrPu1bgZLTz97xSJsrEPoOugZ4sllJEA57FwD7sPJeI9ScTQtKFe1IWYTw3twRWo-frhTTKk1gH-sZmXdmAoTglz84_phmynIuOO95lJqo-Wb9NUV0eUYEN0X__FTwdTPbJ9VzlyfBTxQkFRIsF-hcVESKWdSMupznjHVIPUwF3DdU5wjfPPP_EhFJwG_S_0ifhIKwo1JzTC2XGSSc0mrgZYYSlq5olXAxypFIoMcwj2sc2OD0hCZKjA-ecn066rM3KDK5WCAyOdFM__-paksFArdS6Z9iGghR5g26ZWgC-pMMHrq7SbgCDSja6jcOzeLJTuD8bHA2cTbQ2gucFF7fCtoavb2DRuEMQDO5eZKrp3gEkf6K6q8S6nmxYaeQNxWiEVIKxFycYME3z3VYgP13kHKwsxpEOL4t-F6KH24RWoawBahRlc-8ZK62laWjnU1DQnAzzVUKJ4QsBDwstD7uie3A7NtjE1ndRTT4CXL8JwPsCSYtCUNd7WPP9bELz3OOQXnjCJnaJ7mO8O0E4TQTbwx1tbP1leB9frJkJjqCgy1CdYk64Q8EwNW2MCTRM1AfPkK89UeYfFQGhiTfg3ad9BYKiKl68hhvY1hMYM6vjQUPMbaQZ__g65CjWcK6qKmNRLjG0DI51JQ8kjjb7V0rNT_zrrcp05ma6WwkwnrNVewYopbgdpI3BOCv2i6gADGhiL-cJ53YWIgI7QYFMZo4EImfII0BfqfO7Lr7rI910SI2WUGwWq_MHuvh1PD-u68PqfrYutRNC4tQZRQy62MgK9if7auq93OGyZd_KHrTX4GGNxdNg6ZMewJsfsF5xn5TKhX1221vo4lfCtMDOJTYp1HahECDPvuwumWmsds0Nr7X7rXmvtUnvh8vzy0tx8Z2F5pd1ZWYKno9ba0uXO6tJcZ2Flrt2Zb7dXV44vtj40Z7Yvz7VX5-ZWFzrt5YW5hcWl5YstQCMoYbv2fwzMvxoc_x_v3tn-)
 
 # Hierarchy
 
+- 🧠 VLPFC (BA 44/45/47) – Convergence
+  - 🗣️ Broca's Area Functions
+    - 🔢 Sequential Processing
+      - 🔤 Phonological sequencing
+      - 📖 Syntactic ordering
+      - ⏱️ Motor timing coordination
+      - 🌳 Hierarchical structure
+      - 🔗 Temporal binding
+    - 🔄 Transformation Operations
+      - 💭➡️🗣️ Thought to speech
+      - 🔄 Abstract to concrete
+      - 🔄 Sensory to motor
+      - 🎯 Planning to execution
+    - 💾 Working Memory
+      - 🔁 Phonological loop
+      - 📝 Syntactic maintenance
+      - 📤 Information forwarding
+      - 💾 Temporary storage
+    - 🔮 Prediction Generation
+      - 🎤 Speech anticipation
+      - 🎯 Motor preparation
+      - 📈 Forward models
+      - ⚠️ Error detection
+  - 😰 Uncanny Valley Response
+    - 🤔 Category Ambiguity
+      - 👤❓🤖 Human vs non-human
+      - ⚔️ Perceptual conflict
+      - 🚨 Expectation violation
+      - ❓ Categorical uncertainty
+    - 📊 Prediction Error Detection
+      - 🔍 Mismatch processing
+      - 👁️❌🎯 Visual-motor incongruence
+      - ⚠️ Movement prediction failure
+      - 🚶❌ Biological motion violation
+    - 🎭 Agent Attribution Struggle
+      - 💭 Intentionality assessment
+      - 🧠 Mental state inference
+      - 🤔 Should I mentalize?
+      - ⚔️ Social cognition conflict
+    - 😨 Emotional Regulation
+      - 🤢 Disgust response processing
+      - ⚠️ Threat evaluation
+      - 🔗 Limbic system interaction
+      - 🔄 Cognitive reappraisal
+    - 🎯 Conflict Resolution Attempt
+      - 📈 Increased VLPFC activation
+      - 🎮 Cognitive control engaged
+      - 🔨 Category forcing attempts
+      - 😰 Resolution failure = discomfort
+  - 🤔 Causal Reasoning
+    - 🎭 Causal Simulation Generation
+      - ⬅️ Left BA 44/45 dominant
+      - 🔄 Counterfactual thinking
+      - 🏗️ Mental model construction
+      - 📝 Scenario generation
+    - ⚙️ Mechanism Representation
+      - 🔗 How does X cause Y?
+      - 📊 Process modeling
+      - 🔢 Intermediate steps
+      - ⏱️ Temporal dynamics
+    - 🔬 Hypothesis Testing
+      - 💭 Generate alternatives
+      - 📊 Evaluate plausibility
+      - 🔮 Compare predictions
+      - 🔄 Update beliefs
+    - 📋 Abstract Rule Processing
+      - 🔗 If-then relationships
+      - 🤔 Logical inference
+      - 🌐 Generalization
+      - 🔄 Transfer learning
+    - 💭 Working Memory Integration
+      - 🔢 Hold multiple causes
+      - 🔗 Track relationships
+      - 💾 Maintain hypotheses
+      - 🔢 Sequential reasoning
+  - ⚙️ Core Convergent Mechanisms
+    - 🔮 Predictive Processing
+      - 📈 Generate expectations
+      - 🔍 Compare to input
+      - ⚠️ Detect mismatches
+      - 🔄 Update models
+      - 🎭 Forward simulation
+    - 🌳 Hierarchical Structure
+      - 📖 Grammar = hierarchy
+      - 🔗 Causal chains = hierarchy
+      - 📊 Category levels = hierarchy
+      - 🔄 Abstract to specific
+    - 🎭 Simulation and Modeling
+      - 🎤 Speech motor simulation
+      - 👤 Agent behavior simulation
+      - ⚙️ Causal mechanism simulation
+      - 🏗️ Internal model generation
+    - 🚨 Conflict Detection
+      - 📖❌ Grammatical violations
+      - 👁️❌ Perceptual incongruence
+      - 🔗❌ Causal impossibilities
+      - ⚠️ Expectation breaches
+    - 💾 Working Memory Hub
+      - 🔢 Maintain sequences
+      - 📊 Hold comparisons
+      - 🎭 Track simulations
+      - 🔗 Integrate information
+    - 🎮 Cognitive Control
+      - 🛑 Response inhibition
+      - 🔄 Task switching
+      - ⚔️ Conflict resolution
+      - 🎯 Goal maintenance
+  - 🧬 Neural Architecture
+    - 📍 Anatomical Position
+      - 📍 BA 44 posterior IFG
+      - 📍 BA 45 anterior IFG
+      - 📍 BA 47 orbital IFG
+      - ⬅️ Left hemisphere dominant
+    - 🔗 Connectivity Patterns
+      - 🔗 Dorsal stream to parietal
+      - 🔗 Ventral stream to temporal
+      - 🔗 Premotor cortex links
+      - 🔗 Limbic system connections
+      - 🌐 Prefrontal networks
+    - 📊 Functional Gradients
+      - 🎤 Posterior = motor/phonological
+      - 💭 Anterior = semantic/abstract
+      - 😊 Orbital = emotional/social
+      - 📈 Graded specialization
+    - 🌐 Network Integration
+      - 🗣️ Language network hub
+      - 🧠 Mentalizing network
+      - 🎮 Executive control network
+      - 🔄 Multiple demand system
+  - 💻 Unified Computational Role
+    - 🔍 Pattern Matching Engine
+      - 📊 Expected vs observed
+      - 🎯 Template matching
+      - ⚠️ Deviation detection
+      - 📝 Category assignment
+    - 🤔 Inference Generator
+      - 🧩 Fill in gaps
+      - 🔢 Complete sequences
+      - 🔮 Predict outcomes
+      - 💭 Understand intentions
+    - ✅ Coherence Evaluator
+      - 🤔 Does this make sense?
+      - 📖 Is this grammatical?
+      - 👤 Is this human?
+      - 🔗 Is this causal?
+      - ✓ Plausibility checking
+    - 🚪 Integration Bottleneck
+      - 🔗 Multiple streams converge
+      - 🔄 Synthesis required
+      - 🎯 Decision forcing
+      - 📤 Output generation
+  - 🔬 Clinical and Evolutionary Insights
+    - 🧩 Why These Functions Cluster
+      - 👥 Language = social prediction
+      - 🎯 Agent detection = survival
+      - 🔨 Causality = tool use
+      - 🎭 All require simulation
+      - 🧬 Evolved together
+    - 💔 When VLPFC Fails
+      - 🚫🗣️ Broca's aphasia = no speech
+      - 👤❌ Poor agent detection
+      - 🔗❌ Impaired causal reasoning
+      - 🧩 Autism spectrum features
+      - 👥❌ Social cognition deficits
+    - 📊 Individual Differences
+      - 😰📈 Uncanny valley sensitivity varies
+      - 🗣️📊 Language aptitude varies
+      - 🤔📊 Causal reasoning skill varies
+      - 🧠📏 VLPFC volume correlates
+    - 🎯 Therapeutic Targets
+      - 🗣️ Aphasia rehabilitation
+      - 👥 Social cognition training
+      - 🎮 Executive function therapy
+      - 🧲 TMS interventions
