@@ -9,31 +9,31 @@
 
 - 🦴 Deep Evolutionary Origins  
   - 🐟 Vertebrate Ancestors  
-    - 🧬 FOXP2 highly conserved across vertebrates  
+    - 🧬 [FOXP2](https://claude.ai/share/814829f8-6471-4cd2-bfbb-ed5df8c00389) highly conserved across vertebrates  
     - 🧬 Among top 5% most conserved proteins  
     - 🧬 Present in fish  
     - 🧬 Present in reptiles  
     - 🧬 Present in alligators  
   - 🐭 Mammalian Lineage  
     - 🧬 Mice differ by 3 amino acids from humans  
-    - 🧬 Similar FOXP2 in most mammals  
+    - 🧬 Similar [FOXP2](https://claude.ai/share/814829f8-6471-4cd2-bfbb-ed5df8c00389) in most mammals  
     - 🧠 Cortical development mechanisms shared  
 
 - 🐵 Primate Evolution  
   - 🦧 Common Primate Ancestor  
     - ⏰ 25-6 million years ago  
-    - 🧬 TBR1 pathway established  
+    - 🧬 [TBR1 pathway established](https://claude.ai/share/67addc2d-a6a7-4b16-a5ad-dc6e2a7b8ed1)
     - 🧠 Basic cortical architecture  
     - 🧬 NOTCH signaling present  
   - 🦍 Ape Divergence  
     - 🦧 Orangutans 14 MYA  
-      - 🧬 3 amino acid differences in FOXP2  
+      - 🧬 3 amino acid differences in [FOXP2](https://claude.ai/share/814829f8-6471-4cd2-bfbb-ed5df8c00389)  
       - 🧬 Additional fixed substitution  
     - 🦍 Gorillas 8-10 MYA  
-      - 🧬 2 amino acid differences in FOXP2  
+      - 🧬 2 amino acid differences in [FOXP2](https://claude.ai/share/814829f8-6471-4cd2-bfbb-ed5df8c00389)  
       - 🧬 Similar to chimpanzees  
     - 🐒 Chimpanzee-Human Split 6-7 MYA  
-      - 🧬 Ancestral FOXP2 form  
+      - 🧬 Ancestral [FOXP2](https://claude.ai/share/814829f8-6471-4cd2-bfbb-ed5df8c00389) form  
       - 🗣️ Pre-speech capabilities  
       - 🗣️ Limited vocal control  
 
@@ -48,8 +48,8 @@
     - 🦴 Common ancestor candidate  
     - 👥 For H. sapiens, Neanderthals, Denisovans  
     - 🧠 Increasing brain size  
-    - 🧬 ASPM under selection  
-    - 🧬 MCPH1 under selection  
+    - 🧬 [ASPM](https://claude.ai/share/9564ed3c-35a1-46f7-837c-37d4af6c9da4) under selection  
+    - 🧬 [MCPH1](https://claude.ai/share/e17f0f0f-e063-4c62-85ca-9dad428853d0) under selection  
   - 🔀 Archaic Human Split  
     - ⏰ 550,000-765,000 years ago  
     - 🔀 Neanderthal-Denisovan lineage separates  
@@ -59,18 +59,18 @@
   - 🧑‍🦰 Neanderthals  
     - ⏰ Emerged ~400,000 years ago  
     - ⏰ Extinct ~40,000 years ago  
-    - 🧬 Shared 2 FOXP2 substitutions with humans  
-    - 🧬 NOTCH2NL variants  
-      - 🧬 M40I missense variant  
-      - 🧬 N232S missense variant  
+    - 🧬 Shared 2 [FOXP2](https://claude.ai/share/814829f8-6471-4cd2-bfbb-ed5df8c00389) substitutions with humans  
+    - 🧬 [NOTCH2NL](https://claude.ai/share/69ff4e13-9d4f-4535-8133-9e6b18c2d850) variants  
+      - 🧬 [M40I](https://claude.ai/share/997c8a44-c819-4342-baa3-b9b04c408b15) missense variant  
+      - 🧬 [N232S missense variant](https://claude.ai/share/63dd61e7-a8cd-4da3-8b70-80b05a451c31)
     - 🌍 Present across Eurasia  
     - 👥 Interbred with humans  
   - 🧑‍🦱 Denisovans  
     - ⏰ Emerged ~370,000 years ago  
     - ⏰ Extinct ~30,000 years ago  
-    - 🧬 Shared 2 FOXP2 substitutions with humans  
-    - 🧬 NOTCH2NL variants  
-      - 🧬 E258A missense variant  
+    - 🧬 Shared 2 [FOXP2](https://claude.ai/share/814829f8-6471-4cd2-bfbb-ed5df8c00389) substitutions with humans  
+    - 🧬 [NOTCH2NL](https://claude.ai/share/69ff4e13-9d4f-4535-8133-9e6b18c2d850) variants  
+      - 🧬 [E258A missense variant](https://claude.ai/share/1ef77ad8-156c-4f83-9777-766e135e8158)
       - 🧬 Unique configurations  
     - 🌍 Present across Asia  
     - 👥 Interbred with humans  
@@ -80,29 +80,29 @@
     - ⏰ ~300,000 years ago Africa  
     - 🦴 Jebel Irhoud fossils  
     - 🧑 Earliest H. sapiens  
-  - 🧬 FOXP2 Evolution  
+  - 🧬 [FOXP2](https://claude.ai/share/814829f8-6471-4cd2-bfbb-ed5df8c00389) Evolution  
     - 🧬 Two key substitutions  
-      - 🧬 T303N substitution  
-      - 🧬 N325S substitution  
+      - 🧬 [T303N substitution](https://claude.ai/share/340a92b5-e4fb-4ac2-9053-902d98b0d213)
+      - 🧬 [N325S substitution](???)
     - 👥 Shared with Neanderthals and Denisovans  
     - ⏰ Fixed ~400,000 years ago  
     - ⏰ Or ~200,000-260,000 years ago  
     - 💬 Debate ongoing  
     - 🧬 Regulatory changes in modern humans  
-  - 🧬 NOTCH2NL Emergence  
+  - 🧬 [NOTCH2NL](https://claude.ai/share/69ff4e13-9d4f-4535-8133-9e6b18c2d850) Emergence  
     - 🧬 Human-specific duplications  
     - ⏰ 0.5-4 million years ago  
     - 🧬 Three functional paralogs  
-      - 🧬 NOTCH2NLA  
-      - 🧬 NOTCH2NLB  
-      - 🧬 NOTCH2NLC  
+      - 🧬 [NOTCH2NL](https://claude.ai/share/69ff4e13-9d4f-4535-8133-9e6b18c2d850)A
+      - 🧬 [NOTCH2NL](https://claude.ai/share/69ff4e13-9d4f-4535-8133-9e6b18c2d850)B  
+      - 🧬 [NOTCH2NL](https://claude.ai/share/69ff4e13-9d4f-4535-8133-9e6b18c2d850)C  
     - 🧠 Cortical expansion driver  
     - 🧬 Modern human variants  
     - 🧬 Ongoing adaptive evolution  
   - 🧠 Brain Size Genes  
-    - 🧬 ASPM acceleration  
+    - 🧬 [ASPM](https://claude.ai/share/9564ed3c-35a1-46f7-837c-37d4af6c9da4) acceleration  
       - 🧬 Positive selection last 6 million years  
-    - 🧬 MCPH1 evolution  
+    - 🧬 [MCPH1](https://claude.ai/share/e17f0f0f-e063-4c62-85ca-9dad428853d0) evolution  
       - 🧬 Selection 25-6 MYA  
       - 🧬 Ongoing in modern humans  
   - 🌐 Recent Human Evolution  
@@ -113,6 +113,6 @@
     - 🧬 Gene flow from Neanderthals to Eurasians  
     - 🧬 Gene flow from Denisovans to Oceanians  
     - 🧬 Continued adaptation  
-      - 🧬 NOTCH2NL fine-tuning  
+      - 🧬 [NOTCH2NL](https://claude.ai/share/69ff4e13-9d4f-4535-8133-9e6b18c2d850) fine-tuning  
       - 🗣️ Language refinement  
-      - 🌈 Present day diversity  
+      - 🌈 Present day diversity
