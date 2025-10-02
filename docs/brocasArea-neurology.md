@@ -9,13 +9,13 @@
 
 - 🗣️ Cortical Language Areas  
   - 🧠 Wernicke's Area  
-    - 📍 BA 22  
-    - 🧠 Superior temporal gyrus  
+    - 📍 [BA 22](https://claude.ai/share/f64f1bae-d1df-4527-bcfe-aeee0abbbc75)
+    - 🧠 [Superior temporal gyrus](https://claude.ai/share/dab52496-c6c8-4ba3-a347-5150dc2e1181)
     - 🗣️ Language comprehension  
     - 📖 Word meaning assignment  
     - 🔗 Connected via arcuate fasciculus  
   - 🧠 Primary Motor Cortex  
-    - 📍 M1  
+    - 📍 [M1](https://claude.ai/share/09aa5411-849b-4664-9fcb-ef3f80d3f5ab)
     - 🎤 Executes speech motor commands  
     - 👄 Face and mouth representation  
     - 📍 Adjacent to Broca's area  
@@ -109,7 +109,7 @@
   - 🧠 Auditory Cortex  
     - 📍 Primary A1  
     - 📍 Secondary A2  
-    - 🧠 Superior temporal gyrus  
+    - 🧠 [Superior temporal gyrus](https://claude.ai/share/dab52496-c6c8-4ba3-a347-5150dc2e1181)
     - 👂 Speech sound perception  
     - 🔊 Auditory feedback  
     - 👁️ Self-monitoring  
